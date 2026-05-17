@@ -1,0 +1,73 @@
+/* eslint-disable no-unused-vars */
+window.BIOGRAPHY_DATA = {
+  fr: {
+    downloadPdf: 'Télécharger la biographie (PDF)',
+    pdfFilename: 'Keigo Mukawa - Biographie.pdf',
+    title: 'Biographie',
+    contactTitle: 'Contact',
+    paragraphs: [
+      "Keigo Mukawa s'est imposé sur la scène internationale en remportant le Troisième Prix au Concours Musical International Reine Élisabeth en 2021, après avoir décroché le Deuxième Prix au Concours International Long-Thibaud-Crespin à Paris en 2019. Désormais basé entre le Japon et la France, ces triomphes au sein de deux des compétitions les plus prestigieuses au monde l'ont propulsé au premier plan de la scène musicale, ouvrant la voie à une brillante carrière de récitals, de concerts avec orchestre et de musique de chambre.",
+      "Son répertoire s'étend de la musique baroque aux créations contemporaines. Salué par la critique, il est reconnu pour des interprétations qui unissent la justesse stylistique de chaque époque à une palette sonore d'une infinie richesse. Parallèlement au piano moderne, il se consacre à une recherche approfondie sur les pratiques d'exécution historique au fortepiano, instrument sur lequel il donne régulièrement des concerts depuis 2022. Cette approche historique lui confère une compréhension intime et authentique de l'instrument, offrant au public une qualité d'écoute unique et privilégiée.",
+      "Parmi ses réalisations les plus marquantes figure sa discographie, notamment l'album Maurice Ravel : Intégrale de l'œuvre pour piano solo, initialement publié par NOVA Record en 2022, puis réédité à l'échelle internationale par Etcetera Records en 2024. Cet enregistrement a reçu un accueil critique unanime, notamment de la part du journal Le Monde, et a été couronné par la prestigieuse Clef d'or ResMusica 2024. En tant que chercheur et transcripteur, il a également publié sa propre transcription pour piano solo de Ma Mère l'Oye de Ravel aux éditions Muse Press.",
+      "En juillet 2025, à l'occasion du 150e anniversaire de la naissance de Ravel, il a interprété l'intégrale des œuvres pour piano solo lors d'une tournée de concerts à travers le Japon, captivant le public par ses sonorités poétiques et la finesse de son expression.",
+      'Sur la scène concertante, il se produit sous la direction de chefs de renommée internationale tels que Myung-Whun Chung, Kahchun Wong et Jonathan Nott. Il collabore régulièrement avec de grandes phalanges en Europe et en Asie, parmi lesquelles le Prague Philharmonia, l\'Orchestre National de France, l\'Orchestre National de Lorraine, l\'Orchestre National de Belgique, le Brussels Philharmonic, ainsi que les plus grands orchestres japonais.',
+      "Après des études à l'Université des arts de Tokyo, Keigo Mukawa est admis à l'unanimité du jury au Conservatoire National Supérieur de Musique et de Danse de Paris en 2014. Il y a obtenu le Diplôme d'Artiste Interprète, achevé son cursus de musique de chambre et diplômé du département de fortepiano. Il a étudié auprès de maîtres renommés tels que Frank Braley, Haruko Ueda, Théodore Paraskivesco, Yukio Yokoyama, Susumu Aoyagi, Patrick Cohen et Daria Fadeeva.",
+      'Il est également lauréat du Prix « Fresh Artist » du Nippon Steel Music Award ainsi que du Prix de musique Idemitsu.',
+    ],
+    agencies: [
+      {
+        region: 'Europe, Canada & designated territories',
+        name: 'Squire Artists',
+        website: 'https://www.sqar.nl/',
+        contact: 'Roelof Jonker',
+        email: 'roelofjonker@sqar.nl',
+        phone: '+31 6 4131 3488',
+        address: ['Colombiahof 35', '2622 AD Delft', 'The Netherlands'],
+      },
+      {
+        region: 'France et les pays francophones',
+        name: 'iAm — International Art Management',
+        website: 'https://www.international-art-management.fr/en/',
+        contact: 'Nicole Viciana',
+        email: 'contact@international-art-management.fr',
+        phone: '+33 6 60 84 85 06',
+        address: ['5 rue Henri Heine', '75016 Paris', 'France'],
+      },
+    ],
+  },
+  en: {
+    downloadPdf: 'Download biography (PDF)',
+    pdfFilename: 'Keigo Mukawa - Biography.pdf',
+    title: 'Biography',
+    contactTitle: 'Contact',
+    paragraphs: [
+      'Keigo Mukawa established himself on the international stage by winning Third Prize at the Queen Elisabeth International Music Competition in 2021, after Second Prize at the Long-Thibaud-Crespin International Competition in Paris in 2019. Now based between Japan and France, these triumphs within two of the world\'s most prestigious competitions propelled him to the forefront of the musical scene, opening the way to a brilliant career of recitals, orchestral concerts and chamber music.',
+      'His repertoire spans from Baroque music to contemporary creations. Acclaimed by critics, he is recognized for interpretations that unite the stylistic integrity of each era with a palette of boundless sonic richness. Alongside the modern piano, he devotes himself to in-depth research on historical performance practice on the fortepiano, an instrument on which he has given regular concerts since 2022. This historical approach affords him an intimate and authentic understanding of the instrument, offering audiences a unique and privileged listening experience.',
+      'Among his most notable achievements is his discography, notably the album Maurice Ravel: Complete Works for Solo Piano, initially released by NOVA Record in 2022, then reissued internationally by Etcetera Records in 2024. This recording received unanimous critical acclaim, notably from Le Monde, and was crowned with the prestigious ResMusica Clef d\'or 2024. As a researcher and transcriber, he has also published his own solo piano transcription of Ravel\'s Mother Goose with Muse Press.',
+      'In July 2025, on the occasion of the 150th anniversary of Ravel\'s birth, he performed the complete solo piano works on a concert tour across Japan, captivating audiences with his poetic sonorities and refined expression.',
+      'On the concert stage, he performs under internationally renowned conductors such as Myung-Whun Chung, Kahchun Wong and Jonathan Nott. He regularly collaborates with major orchestras in Europe and Asia, including the Prague Philharmonia, Orchestre National de France, Orchestre National de Lorraine, Orchestre National de Belgique, Brussels Philharmonic, and Japan\'s leading orchestras.',
+      'After studies at Tokyo University of the Arts, Keigo Mukawa was admitted unanimously by the jury to the Conservatoire National Supérieur de Musique et de Danse de Paris in 2014. He obtained the Diplôme d\'Artiste Interprète, completed his chamber music studies and graduated from the fortepiano department. He studied with renowned teachers including Frank Braley, Haruko Ueda, Théodore Paraskivesco, Yukio Yokoyama, Susumu Aoyagi, Patrick Cohen and Daria Fadeeva.',
+      'He is also laureate of the Fresh Artist Prize of the Nippon Steel Music Award and the Idemitsu Music Award.',
+    ],
+    agencies: [
+      {
+        region: 'Europe, Canada & designated territories',
+        name: 'Squire Artists',
+        website: 'https://www.sqar.nl/',
+        contact: 'Roelof Jonker',
+        email: 'roelofjonker@sqar.nl',
+        phone: '+31 6 4131 3488',
+        address: ['Colombiahof 35', '2622 AD Delft', 'The Netherlands'],
+      },
+      {
+        region: 'France et les pays francophones',
+        name: 'iAm — International Art Management',
+        website: 'https://www.international-art-management.fr/en/',
+        contact: 'Nicole Viciana',
+        email: 'contact@international-art-management.fr',
+        phone: '+33 6 60 84 85 06',
+        address: ['5 rue Henri Heine', '75016 Paris', 'France'],
+      },
+    ],
+  },
+};

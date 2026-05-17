@@ -1,0 +1,10 @@
+{
+  "name": "keigo-mukawa-site-officiel",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve public -l 3000",
+    "preview": "npx --yes serve public -l 3000",
+    "deploy:preview": "npx --yes vercel",
+    "deploy:prod": "npx --yes vercel --prod"
+  }
+}

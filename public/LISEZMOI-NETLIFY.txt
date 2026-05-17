@@ -1,0 +1,23 @@
+═══════════════════════════════════════════════════════════
+  DÉPLOIEMENT NETLIFY — LISEZ CECI AVANT DE GLISSER
+═══════════════════════════════════════════════════════════
+
+✓ GLISSEZ CE DOSSIER « public » (ou « NETLIFY-DEPLOY » sur le Bureau)
+  sur : https://app.netlify.com/drop
+
+✗ NE PAS glisser :
+  - le dossier parent du projet (celui qui contient package.json)
+  - seulement le sous-dossier « fr »
+
+───────────────────────────────────────────────────────────
+Après déploiement, testez ces adresses (remplacez VOTRE-SITE) :
+
+  https://VOTRE-SITE.netlify.app/fr/
+  https://VOTRE-SITE.netlify.app/fr/biographie.html
+  https://VOTRE-SITE.netlify.app/fr/concerts.html
+
+Si biographie.html affiche « Page introuvable », le mauvais dossier
+a été déployé. Recommencez en glissant uniquement ce dossier.
+
+À la racine du site Netlify vous devez voir :
+  index.html   fr/   en/   css/   js/   images/   _redirects
