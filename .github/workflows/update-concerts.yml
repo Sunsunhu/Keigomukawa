@@ -1,0 +1,48 @@
+name: Mise à jour des concerts
+
+# Synchronise public/js/concerts-data.js depuis le site japonais officiel
+# (keigomukawa.com). S'exécute chaque heure ; ne committe que s'il y a un
+# changement réel (nouveau concert, statut « complet », passage à venir → passé…).
+
+on:
+  schedule:
+    - cron: '0 * * * *' # toutes les heures, à la minute 0 (UTC)
+  workflow_dispatch: {} # permet un déclenchement manuel depuis l'onglet Actions
+
+permissions:
+  contents: write # nécessaire pour que l'action puisse committer/pousser
+
+concurrency:
+  group: update-concerts
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Régénérer les données de concerts
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
+        run: node scripts/concert-sync/generate.mjs
+
+      - name: Committer et pousser si modifié
+        run: |
+          if [[ -n "$(git status --porcelain public/js/concerts-data.js scripts/concert-sync/translation-cache.json)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add public/js/concerts-data.js scripts/concert-sync/translation-cache.json
+            git commit -m "Concerts : synchronisation automatique depuis keigomukawa.com"
+            git push
+            echo "✓ Changements poussés."
+          else
+            echo "Aucun changement — rien à committer."
+          fi
