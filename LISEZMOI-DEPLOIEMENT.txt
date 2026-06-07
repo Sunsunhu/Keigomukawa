@@ -1,0 +1,47 @@
+Keigo Mukawa — 网站完整包（含音乐会自动同步）
+================================================
+
+本压缩包包含两部分，用途不同：
+
+────────────────────────────────────────
+一、上线 SiteGround（网站访问）
+────────────────────────────────────────
+
+只需上传文件夹：  public/
+
+在 SiteGround → File Manager → public_html：
+  1. 删除 public_html 内旧文件
+  2. 上传 public/ 里的「全部内容」（不是 public 文件夹本身）
+     或使用单独提供的「仅 public」zip 解压到 public_html
+
+解压后 public_html 根目录应有：
+  index.html  .htaccess  css/  fr/  en/  images/  js/  files/
+
+────────────────────────────────────────
+二、音乐会自动更新系统（本地 + GitHub）
+────────────────────────────────────────
+
+以下文件不要上传到 SiteGround，保留在电脑或推送到 GitHub：
+
+  scripts/concert-sync/     同步脚本与人工译文覆盖层
+  .github/workflows/        每小时自动同步（GitHub Action）
+  package.json              本地命令
+
+本地手动同步音乐会：
+  cd "Keigo Mukawa Site Officiel"
+  npm run concerts:sync
+
+同步后会更新：public/js/concerts-data.js
+然后需重新上传该文件（或整个 public/）到 SiteGround。
+
+推送到 GitHub 后：
+  - GitHub Action 每小时自动从 keigomukawa.com 同步
+  - 若有变更会自动 commit（需配置仓库 Secrets 可选 DeepL 机翻）
+  - SiteGround 仍需手动上传更新后的 concerts-data.js
+    （或另行配置 FTP 自动部署）
+
+详细说明：
+  DEPLOIEMENT-SITEGROUND.md
+  scripts/concert-sync/README.md
+
+可选：GitHub → Settings → Secrets → DEEPL_API_KEY（DeepL 免费 API）

@@ -4,6 +4,8 @@
   "scripts": {
     "start": "npx --yes serve public -l 3000",
     "preview": "npx --yes serve public -l 3000",
+    "concerts:sync": "node scripts/concert-sync/generate.mjs",
+    "concerts:seed": "node scripts/concert-sync/seed-overrides.mjs",
     "deploy:preview": "npx --yes vercel",
     "deploy:prod": "npx --yes vercel --prod"
   }

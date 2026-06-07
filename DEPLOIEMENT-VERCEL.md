@@ -16,11 +16,11 @@ git init
 git add .
 git commit -m "Site officiel Keigo Mukawa — déploiement Vercel"
 git branch -M main
-git remote add origin https://github.com/VOTRE-COMPTE/keigo-mukawa-site.git
+git remote add origin https://github.com/Sunsunhu/Keigomukawa.git
 git push -u origin main
 ```
 
-Remplacez `VOTRE-COMPTE` par votre identifiant GitHub.
+> Dépôt : **https://github.com/Sunsunhu/Keigomukawa** — tant que la page GitHub affiche « empty », Vercel ne pourra pas déployer. Il faut d’abord réussir le `git push`.
 
 ## 2. Connecter Vercel
 

@@ -1,0 +1,15 @@
+# Keigo Mukawa — SiteGround / Apache
+# Équivalent aux redirections de vercel.json et _redirects (Netlify).
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # /fr  →  /fr/
+  RewriteRule ^fr$ /fr/ [R=301,L]
+
+  # /en  →  /en/
+  RewriteRule ^en$ /en/ [R=301,L]
+</IfModule>
+
+# Page d'erreur personnalisée
+ErrorDocument 404 /404.html
