@@ -163,6 +163,7 @@
   initScrollReveal();
   initPageHeroParallax();
   initConcerts();
+  initHomeConcertsPreview();
 
   document.querySelectorAll('.parallax-strip img').forEach((img) => {
     const wrap = img.closest('.parallax-strip');
@@ -396,6 +397,43 @@
 
     renderList('upcoming', data.upcoming);
     renderList('past', data.past);
+  }
+
+  // Accueil : la section « Prochains concerts » se synchronise avec concerts-data.js
+  function initHomeConcertsPreview() {
+    const wrap = document.querySelector('.concerts-preview');
+    if (!wrap || !window.CONCERTS_DATA) return;
+    const data = window.CONCERTS_DATA[getSiteLang()];
+    if (!data || !Array.isArray(data.upcoming)) return;
+
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+
+    const items = data.upcoming
+      .filter((c) => {
+        const [dd, mm, yyyy] = (c.date || '').split('.').map(Number);
+        if (!dd || !mm || !yyyy) return true;
+        return new Date(yyyy, mm - 1, dd) >= today;
+      })
+      .slice(0, 3);
+
+    if (!items.length) return;
+
+    wrap.innerHTML = items
+      .map((c) => {
+        const parts = c.date.split('.');
+        const dayNum = c.dayNum || parts[0];
+        const monthYear = parts.length >= 3 ? `${parts[1]}.${parts[2]}` : c.date;
+        return `
+        <article class="concerts-preview-item">
+          <div class="concert-date"><strong>${dayNum}</strong><span style="display:block;font-size:0.85rem;">${monthYear}</span></div>
+          <div>
+            <p class="concert-venue">${c.venue}</p>
+            <p class="concert-title">${c.title}</p>
+          </div>
+        </article>`;
+      })
+      .join('');
   }
 
   function initSocialDock() {

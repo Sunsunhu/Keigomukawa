@@ -9,5 +9,8 @@
     "og:render": "npx playwright screenshot scripts/og-render.html public/images/og-share.png --viewport-size=1200,630 --wait-for-timeout=4000",
     "deploy:preview": "npx --yes vercel",
     "deploy:prod": "npx --yes vercel --prod"
+  },
+  "devDependencies": {
+    "playwright": "^1.60.0"
   }
 }

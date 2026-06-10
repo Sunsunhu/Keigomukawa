@@ -610,35 +610,35 @@ window.CONCERTS_DATA = {
         "date": "11.06.2026",
         "day": "Thu",
         "dayNum": "11",
-        "venue": "Helsinki, Finlande — Église de Lauttasaari",
-        "title": "LaruFest — Festival de musique de Lauttasaari 2026 (11–14 juin)"
+        "venue": "Helsinki, Finland — Lauttasaari Church",
+        "title": "LaruFest — Lauttasaari Music Festival 2026 (June 11–14)"
       },
       {
         "date": "28.06.2026",
         "day": "Sun",
         "dayNum": "28",
-        "venue": "Senlis, France — Chapelle Saint-Frambourg · 18h00",
-        "title": "Festival concert en trio — Solistes de l'Orchestre de l'Opéra national de Paris"
+        "venue": "Senlis, France — Chapelle Saint-Frambourg · 6:00 PM",
+        "title": "Festival trio concert — Soloists of the Paris Opera Orchestra"
       },
       {
         "date": "02.07.2026",
         "day": "Thu",
         "dayNum": "02",
-        "venue": "Aichi, Japan — Yume Taro Plaza, Salle Hikariki (Takeoto) · Doors 18h30 · 19h00",
+        "venue": "Aichi, Japan — Yume Taro Plaza, Hikariki Hall (Takeoto) · Doors 6:30 PM · 7:00 PM",
         "title": "Keigo Mukawa — Piano recital"
       },
       {
         "date": "04.07.2026",
         "day": "Sat",
         "dayNum": "04",
-        "venue": "Nagano, Japan — Halle de musique du plateau Yatsugatake · Doors 14h30 · 15h00",
+        "venue": "Nagano, Japan — Yatsugatake Kogen Music Hall · Doors 2:30 PM · 3:00 PM",
         "title": "Keigo Mukawa — Piano recital"
       },
       {
         "date": "05.07.2026",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Nagano, Japan — Halle de musique du plateau Yatsugatake · Doors 14h30 · 15h00",
+        "venue": "Nagano, Japan — Yatsugatake Kogen Music Hall · Doors 2:30 PM · 3:00 PM",
         "title": "Keigo Mukawa — Piano recital"
       },
       {
@@ -687,8 +687,8 @@ window.CONCERTS_DATA = {
         "date": "10.09.2026",
         "day": "Thu",
         "dayNum": "10",
-        "venue": "Marches, Italie — Residart Festival",
-        "title": "Residart Festival 2026 / XXVIe Festival Pergolesi Spontini (10–20 septembre)"
+        "venue": "Marche, Italy — Residart Festival",
+        "title": "Residart Festival 2026 / 26th Pergolesi Spontini Festival (September 10–20)"
       },
       {
         "date": "03.10.2026",
