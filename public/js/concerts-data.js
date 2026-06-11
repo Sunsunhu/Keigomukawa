@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "11.06.2026",
-        "day": "jeu.",
-        "dayNum": "11",
-        "venue": "Helsinki, Finlande — Église de Lauttasaari",
-        "title": "LaruFest — Festival de musique de Lauttasaari 2026 (11–14 juin)"
-      },
-      {
         "date": "28.06.2026",
         "day": "dim.",
         "dayNum": "28",
@@ -167,6 +160,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "11.06.2026",
+        "day": "jeu.",
+        "dayNum": "11",
+        "venue": "Helsinki, Finlande — Église de Lauttasaari",
+        "title": "LaruFest — Festival de musique de Lauttasaari 2026 (11–14 juin)"
+      },
       {
         "date": "07.06.2026",
         "day": "dim.",
@@ -448,15 +448,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 14:00 · 14:40",
-        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 18:00 · 18:40",
+        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
       },
       {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 18:00 · 18:40",
-        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
+        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 14:00 · 14:40",
+        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "04.10.2025",
@@ -614,13 +614,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "11.06.2026",
-        "day": "Thu",
-        "dayNum": "11",
-        "venue": "Helsinki, Finland — Lauttasaari Church",
-        "title": "LaruFest — Lauttasaari Music Festival 2026 (June 11–14)"
-      },
-      {
         "date": "28.06.2026",
         "day": "Sun",
         "dayNum": "28",
@@ -776,6 +769,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "11.06.2026",
+        "day": "Thu",
+        "dayNum": "11",
+        "venue": "Helsinki, Finland — Lauttasaari Church",
+        "title": "LaruFest — Lauttasaari Music Festival 2026 (June 11–14)"
+      },
       {
         "date": "07.06.2026",
         "day": "Sun",
@@ -1057,15 +1057,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 14:00 · 14:40",
-        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 18:00 · 18:40",
+        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
       },
       {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 18:00 · 18:40",
-        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
+        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 14:00 · 14:40",
+        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "04.10.2025",
