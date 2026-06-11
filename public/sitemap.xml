@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://www.keigo-mukawa.com/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.keigo-mukawa.com/fr/"/>
+  </url>
+  <url>
+    <loc>https://www.keigo-mukawa.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.keigo-mukawa.com/fr/"/>
+  </url>
+
+  <url>
+    <loc>https://www.keigo-mukawa.com/fr/biographie.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/biographie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/biography.html"/>
+  </url>
+  <url>
+    <loc>https://www.keigo-mukawa.com/en/biography.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/biographie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/biography.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.keigo-mukawa.com/fr/concerts.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/concerts.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/concerts.html"/>
+  </url>
+  <url>
+    <loc>https://www.keigo-mukawa.com/en/concerts.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/concerts.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/concerts.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.keigo-mukawa.com/fr/medias.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/medias.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/media.html"/>
+  </url>
+  <url>
+    <loc>https://www.keigo-mukawa.com/en/media.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/medias.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/media.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.keigo-mukawa.com/fr/discographie.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/discographie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/discography.html"/>
+  </url>
+  <url>
+    <loc>https://www.keigo-mukawa.com/en/discography.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/discographie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/discography.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.keigo-mukawa.com/fr/repertoires.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/repertoires.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/repertoire.html"/>
+  </url>
+  <url>
+    <loc>https://www.keigo-mukawa.com/en/repertoire.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/repertoires.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/repertoire.html"/>
+  </url>
+
+  <url>
+    <loc>https://www.keigo-mukawa.com/fr/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/contact.html"/>
+  </url>
+  <url>
+    <loc>https://www.keigo-mukawa.com/en/contact.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.keigo-mukawa.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.keigo-mukawa.com/en/contact.html"/>
+  </url>
+
+</urlset>
