@@ -131,6 +131,13 @@ window.CONCERTS_DATA = {
         "title": "Keigo Mukawa — Récital de piano 2026"
       },
       {
+        "date": "28.11.2026",
+        "day": "sam.",
+        "dayNum": "28",
+        "venue": "Tokyo, Japon — 府中の森芸術劇場 ウィーンホール · Ouverture 13h15 · 14h00",
+        "title": "務川慧悟ピアノ・リサイタル"
+      },
+      {
         "date": "12.12.2026",
         "day": "sam.",
         "dayNum": "12",
@@ -731,6 +738,13 @@ window.CONCERTS_DATA = {
         "dayNum": "23",
         "venue": "Osaka, Japan — Sumitomo Life Izumi Hall · Doors 13:15 · 14:00",
         "title": "Keigo Mukawa — Piano recital 2026"
+      },
+      {
+        "date": "28.11.2026",
+        "day": "Sat",
+        "dayNum": "28",
+        "venue": "Tokyo, Japan — 府中の森芸術劇場 ウィーンホール · Doors 13h15 · 14h00",
+        "title": "務川慧悟ピアノ・リサイタル"
       },
       {
         "date": "12.12.2026",
