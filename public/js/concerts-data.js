@@ -103,6 +103,20 @@ window.CONCERTS_DATA = {
         "title": "Keigo Mukawa — Récital de piano 2026"
       },
       {
+        "date": "15.11.2026",
+        "day": "dim.",
+        "dayNum": "15",
+        "venue": "Aichi, Japon — しらかわホール · Ouverture 15h30 · 16h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
+      },
+      {
+        "date": "15.11.2026",
+        "day": "dim.",
+        "dayNum": "15",
+        "venue": "Aichi, Japon — しらかわホール · Ouverture 12h30 · 13h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノを学ぶあなたに贈る60分～《名古屋限定》"
+      },
+      {
         "date": "18.11.2026",
         "day": "mer.",
         "dayNum": "18",
@@ -710,6 +724,20 @@ window.CONCERTS_DATA = {
         "dayNum": "13",
         "venue": "Tokyo, Japan — Tokyo Opera City Concert Hall · Doors 18:15 · 19:00",
         "title": "Keigo Mukawa — Piano recital 2026"
+      },
+      {
+        "date": "15.11.2026",
+        "day": "Sun",
+        "dayNum": "15",
+        "venue": "Aichi, Japan — しらかわホール · Doors 15h30 · 16h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
+      },
+      {
+        "date": "15.11.2026",
+        "day": "Sun",
+        "dayNum": "15",
+        "venue": "Aichi, Japan — しらかわホール · Doors 12h30 · 13h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノを学ぶあなたに贈る60分～《名古屋限定》"
       },
       {
         "date": "18.11.2026",
