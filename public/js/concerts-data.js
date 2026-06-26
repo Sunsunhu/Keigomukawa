@@ -82,11 +82,46 @@ window.CONCERTS_DATA = {
         "title": "Residart Festival 2026 / XXVIe Festival Pergolesi Spontini (10–20 septembre)"
       },
       {
+        "date": "29.09.2026",
+        "day": "mar.",
+        "dayNum": "29",
+        "venue": "Hokkaido, Japon — 札幌コンサートホールKitara · Ouverture 13h00 · 13h30",
+        "title": "タナカメディカルグループ主催 札幌交響楽団 招待コンサート2026"
+      },
+      {
         "date": "03.10.2026",
         "day": "sam.",
         "dayNum": "03",
         "venue": "Miyagi, Japon — Taihaku Hall Natori (Natori Cultural Hall), salle moyenne · Ouverture 13:30 · 14:00",
         "title": "Keigo Mukawa — Récital de piano 2026"
+      },
+      {
+        "date": "04.10.2026",
+        "day": "dim.",
+        "dayNum": "04",
+        "venue": "Yamagata, Japon — 山形テルサ テルサホール · Ouverture 13h30 · 14h00",
+        "title": "石田 泰尚＆務川 慧悟 デュオ・リサイタル"
+      },
+      {
+        "date": "17.10.2026",
+        "day": "sam.",
+        "dayNum": "17",
+        "venue": "Niigata, Japon — 柏崎市文化会館アルフォーレ 大ホール · Ouverture 13h15 · 14h00",
+        "title": "石田泰尚＆務川慧悟 DUOリサイタル"
+      },
+      {
+        "date": "24.10.2026",
+        "day": "sam.",
+        "dayNum": "24",
+        "venue": "Tokyo, Japon — サントリーホール · Ouverture 13h20 · 14h00",
+        "title": "日本フィルハーモニー交響楽団 第414回名曲コンサート"
+      },
+      {
+        "date": "03.11.2026",
+        "day": "mar.",
+        "dayNum": "03",
+        "venue": "Saitama, Japon — 所沢市民文化センター アークホール · Ouverture 13h15 · 14h00",
+        "title": "石田泰尚×務川慧悟"
       },
       {
         "date": "06.11.2026",
@@ -106,15 +141,15 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — しらかわホール · Ouverture 15h30 · 16h00",
-        "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
+        "venue": "Aichi, Japon — しらかわホール · Ouverture 12h30 · 13h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノを学ぶあなたに贈る60分～《名古屋限定》"
       },
       {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — しらかわホール · Ouverture 12h30 · 13h00",
-        "title": "務川慧悟 スペシャルコンサート ～ピアノを学ぶあなたに贈る60分～《名古屋限定》"
+        "venue": "Aichi, Japon — しらかわホール · Ouverture 15h30 · 16h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
       },
       {
         "date": "18.11.2026",
@@ -141,8 +176,8 @@ window.CONCERTS_DATA = {
         "date": "28.11.2026",
         "day": "sam.",
         "dayNum": "28",
-        "venue": "Tokyo, Japon — 府中の森芸術劇場 ウィーンホール · Ouverture 13h15 · 14h00",
-        "title": "務川慧悟ピアノ・リサイタル"
+        "venue": "Tokyo, Japon — 府中の森芸術劇場 ウィーンホール · 14h00",
+        "title": "務川慧悟ピアノ・リサイタル2026"
       },
       {
         "date": "12.12.2026",
@@ -705,11 +740,46 @@ window.CONCERTS_DATA = {
         "title": "Residart Festival 2026 / 26th Pergolesi Spontini Festival (September 10–20)"
       },
       {
+        "date": "29.09.2026",
+        "day": "Tue",
+        "dayNum": "29",
+        "venue": "Hokkaido, Japan — 札幌コンサートホールKitara · Doors 13h00 · 13h30",
+        "title": "タナカメディカルグループ主催 札幌交響楽団 招待コンサート2026"
+      },
+      {
         "date": "03.10.2026",
         "day": "Sat",
         "dayNum": "03",
         "venue": "Miyagi, Japan — Taihaku Hall Natori (Natori Cultural Hall), medium hall · Doors 13:30 · 14:00",
         "title": "Keigo Mukawa — Piano recital 2026"
+      },
+      {
+        "date": "04.10.2026",
+        "day": "Sun",
+        "dayNum": "04",
+        "venue": "Yamagata, Japan — 山形テルサ テルサホール · Doors 13h30 · 14h00",
+        "title": "石田 泰尚＆務川 慧悟 デュオ・リサイタル"
+      },
+      {
+        "date": "17.10.2026",
+        "day": "Sat",
+        "dayNum": "17",
+        "venue": "Niigata, Japan — 柏崎市文化会館アルフォーレ 大ホール · Doors 13h15 · 14h00",
+        "title": "石田泰尚＆務川慧悟 DUOリサイタル"
+      },
+      {
+        "date": "24.10.2026",
+        "day": "Sat",
+        "dayNum": "24",
+        "venue": "Tokyo, Japan — サントリーホール · Doors 13h20 · 14h00",
+        "title": "日本フィルハーモニー交響楽団 第414回名曲コンサート"
+      },
+      {
+        "date": "03.11.2026",
+        "day": "Tue",
+        "dayNum": "03",
+        "venue": "Saitama, Japan — 所沢市民文化センター アークホール · Doors 13h15 · 14h00",
+        "title": "石田泰尚×務川慧悟"
       },
       {
         "date": "06.11.2026",
@@ -729,15 +799,15 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — しらかわホール · Doors 15h30 · 16h00",
-        "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
+        "venue": "Aichi, Japan — しらかわホール · Doors 12h30 · 13h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノを学ぶあなたに贈る60分～《名古屋限定》"
       },
       {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — しらかわホール · Doors 12h30 · 13h00",
-        "title": "務川慧悟 スペシャルコンサート ～ピアノを学ぶあなたに贈る60分～《名古屋限定》"
+        "venue": "Aichi, Japan — しらかわホール · Doors 15h30 · 16h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
       },
       {
         "date": "18.11.2026",
@@ -764,8 +834,8 @@ window.CONCERTS_DATA = {
         "date": "28.11.2026",
         "day": "Sat",
         "dayNum": "28",
-        "venue": "Tokyo, Japan — 府中の森芸術劇場 ウィーンホール · Doors 13h15 · 14h00",
-        "title": "務川慧悟ピアノ・リサイタル"
+        "venue": "Tokyo, Japan — 府中の森芸術劇場 ウィーンホール · 14h00",
+        "title": "務川慧悟ピアノ・リサイタル2026"
       },
       {
         "date": "12.12.2026",
