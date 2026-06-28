@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "28.06.2026",
-        "day": "dim.",
-        "dayNum": "28",
-        "venue": "Senlis, France — Chapelle Saint-Frambourg · 18h00",
-        "title": "Festival concert en trio — Solistes de l'Orchestre de l'Opéra national de Paris"
-      },
-      {
         "date": "02.07.2026",
         "day": "jeu.",
         "dayNum": "02",
@@ -209,6 +202,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "28.06.2026",
+        "day": "dim.",
+        "dayNum": "28",
+        "venue": "Senlis, France — Chapelle Saint-Frambourg · 18h00",
+        "title": "Festival concert en trio — Solistes de l'Orchestre de l'Opéra national de Paris"
+      },
       {
         "date": "11.06.2026",
         "day": "jeu.",
@@ -497,15 +497,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 18:00 · 18:40",
-        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
+        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 14:00 · 14:40",
+        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 14:00 · 14:40",
-        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 18:00 · 18:40",
+        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
       },
       {
         "date": "04.10.2025",
@@ -662,13 +662,6 @@ window.CONCERTS_DATA = {
   },
   "en": {
     "upcoming": [
-      {
-        "date": "28.06.2026",
-        "day": "Sun",
-        "dayNum": "28",
-        "venue": "Senlis, France — Chapelle Saint-Frambourg · 6:00 PM",
-        "title": "Festival trio concert — Soloists of the Paris Opera Orchestra"
-      },
       {
         "date": "02.07.2026",
         "day": "Thu",
@@ -867,6 +860,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "28.06.2026",
+        "day": "Sun",
+        "dayNum": "28",
+        "venue": "Senlis, France — Chapelle Saint-Frambourg · 6:00 PM",
+        "title": "Festival trio concert — Soloists of the Paris Opera Orchestra"
+      },
       {
         "date": "11.06.2026",
         "day": "Thu",
@@ -1155,15 +1155,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 18:00 · 18:40",
-        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
+        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 14:00 · 14:40",
+        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 14:00 · 14:40",
-        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 18:00 · 18:40",
+        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
       },
       {
         "date": "04.10.2025",
