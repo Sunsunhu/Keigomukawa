@@ -114,7 +114,8 @@ window.CONCERTS_DATA = {
         "day": "mar.",
         "dayNum": "03",
         "venue": "Saitama, Japon — 所沢市民文化センター アークホール · Ouverture 13h15 · 14h00",
-        "title": "石田泰尚×務川慧悟"
+        "title": "石田泰尚×務川慧悟",
+        "soldOut": true
       },
       {
         "date": "06.11.2026",
@@ -772,7 +773,8 @@ window.CONCERTS_DATA = {
         "day": "Tue",
         "dayNum": "03",
         "venue": "Saitama, Japan — 所沢市民文化センター アークホール · Doors 13h15 · 14h00",
-        "title": "石田泰尚×務川慧悟"
+        "title": "石田泰尚×務川慧悟",
+        "soldOut": true
       },
       {
         "date": "06.11.2026",
