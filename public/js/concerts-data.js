@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "02.07.2026",
-        "day": "jeu.",
-        "dayNum": "02",
-        "venue": "Aichi, Japon — Yume Taro Plaza, Salle Hikariki (Takeoto) · Ouverture 18h30 · 19h00",
-        "title": "Keigo Mukawa — Récital de piano"
-      },
-      {
         "date": "04.07.2026",
         "day": "sam.",
         "dayNum": "04",
@@ -203,6 +196,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "02.07.2026",
+        "day": "jeu.",
+        "dayNum": "02",
+        "venue": "Aichi, Japon — Yume Taro Plaza, Salle Hikariki (Takeoto) · Ouverture 18h30 · 19h00",
+        "title": "Keigo Mukawa — Récital de piano"
+      },
       {
         "date": "28.06.2026",
         "day": "dim.",
@@ -498,15 +498,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 14:00 · 14:40",
-        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 18:00 · 18:40",
+        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
       },
       {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 18:00 · 18:40",
-        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
+        "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 14:00 · 14:40",
+        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "04.10.2025",
@@ -663,13 +663,6 @@ window.CONCERTS_DATA = {
   },
   "en": {
     "upcoming": [
-      {
-        "date": "02.07.2026",
-        "day": "Thu",
-        "dayNum": "02",
-        "venue": "Aichi, Japan — Yume Taro Plaza, Hikariki Hall (Takeoto) · Doors 6:30 PM · 7:00 PM",
-        "title": "Keigo Mukawa — Piano recital"
-      },
       {
         "date": "04.07.2026",
         "day": "Sat",
@@ -862,6 +855,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "02.07.2026",
+        "day": "Thu",
+        "dayNum": "02",
+        "venue": "Aichi, Japan — Yume Taro Plaza, Hikariki Hall (Takeoto) · Doors 6:30 PM · 7:00 PM",
+        "title": "Keigo Mukawa — Piano recital"
+      },
       {
         "date": "28.06.2026",
         "day": "Sun",
@@ -1157,15 +1157,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 14:00 · 14:40",
-        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 18:00 · 18:40",
+        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
       },
       {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 18:00 · 18:40",
-        "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
+        "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 14:00 · 14:40",
+        "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "04.10.2025",
