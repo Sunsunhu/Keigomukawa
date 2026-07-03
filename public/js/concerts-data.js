@@ -135,7 +135,7 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — しらかわホール · Ouverture 15h30 · 16h00",
+        "venue": "Aichi, Japon — しらかわホール · Ouverture 15h15 · 16h00",
         "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
       },
       {
@@ -794,7 +794,7 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — しらかわホール · Doors 15h30 · 16h00",
+        "venue": "Aichi, Japan — しらかわホール · Doors 15h15 · 16h00",
         "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
       },
       {
