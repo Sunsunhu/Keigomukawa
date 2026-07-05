@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "05.07.2026",
-        "day": "dim.",
-        "dayNum": "05",
-        "venue": "Nagano, Japon — Halle de musique du plateau Yatsugatake · Ouverture 14h30 · 15h00",
-        "title": "Keigo Mukawa — Récital de piano"
-      },
-      {
         "date": "10.07.2026",
         "day": "ven.",
         "dayNum": "10",
@@ -189,6 +182,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "05.07.2026",
+        "day": "dim.",
+        "dayNum": "05",
+        "venue": "Nagano, Japon — Halle de musique du plateau Yatsugatake · Ouverture 14h30 · 15h00",
+        "title": "Keigo Mukawa — Récital de piano"
+      },
       {
         "date": "04.07.2026",
         "day": "sam.",
@@ -664,13 +664,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "05.07.2026",
-        "day": "Sun",
-        "dayNum": "05",
-        "venue": "Nagano, Japan — Yatsugatake Kogen Music Hall · Doors 2:30 PM · 3:00 PM",
-        "title": "Keigo Mukawa — Piano recital"
-      },
-      {
         "date": "10.07.2026",
         "day": "Fri",
         "dayNum": "10",
@@ -848,6 +841,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "05.07.2026",
+        "day": "Sun",
+        "dayNum": "05",
+        "venue": "Nagano, Japan — Yatsugatake Kogen Music Hall · Doors 2:30 PM · 3:00 PM",
+        "title": "Keigo Mukawa — Piano recital"
+      },
       {
         "date": "04.07.2026",
         "day": "Sat",
