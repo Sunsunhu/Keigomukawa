@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "10.07.2026",
-        "day": "ven.",
-        "dayNum": "10",
-        "venue": "Aichi, Japon — Aichi Arts Center, Concert Hall · 18h45",
-        "title": "Spécial Quatuor II — Gala anniversaire (60e anniversaire)"
-      },
-      {
         "date": "22.08.2026",
         "day": "sam.",
         "dayNum": "22",
@@ -182,6 +175,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "10.07.2026",
+        "day": "ven.",
+        "dayNum": "10",
+        "venue": "Aichi, Japon — Aichi Arts Center, Concert Hall · 18h45",
+        "title": "Spécial Quatuor II — Gala anniversaire (60e anniversaire)"
+      },
       {
         "date": "05.07.2026",
         "day": "dim.",
@@ -664,13 +664,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "10.07.2026",
-        "day": "Fri",
-        "dayNum": "10",
-        "venue": "Aichi, Japan — Aichi Arts Center, Concert Hall · 18h45",
-        "title": "Spécial Quatuor II — Gala anniversaire (60e anniversaire)"
-      },
-      {
         "date": "22.08.2026",
         "day": "Sat",
         "dayNum": "22",
@@ -841,6 +834,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "10.07.2026",
+        "day": "Fri",
+        "dayNum": "10",
+        "venue": "Aichi, Japan — Aichi Arts Center, Concert Hall · 18h45",
+        "title": "Spécial Quatuor II — Gala anniversaire (60e anniversaire)"
+      },
       {
         "date": "05.07.2026",
         "day": "Sun",
