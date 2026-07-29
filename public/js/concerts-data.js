@@ -143,7 +143,15 @@ window.CONCERTS_DATA = {
         "day": "sam.",
         "dayNum": "28",
         "venue": "Tokyo, Japon — 府中の森芸術劇場 ウィーンホール · 14h00",
-        "title": "務川慧悟ピアノ・リサイタル2026"
+        "title": "務川慧悟ピアノ・リサイタル2026",
+        "soldOut": true
+      },
+      {
+        "date": "06.12.2026",
+        "day": "dim.",
+        "dayNum": "06",
+        "venue": "Fukuoka, Japon — 八女市民会館 おりなす八女 ハーモニーホール · Ouverture 13h15 · 14h00",
+        "title": "務川慧悟ピアノ・リサイタル"
       },
       {
         "date": "12.12.2026",
@@ -157,7 +165,8 @@ window.CONCERTS_DATA = {
         "day": "mer.",
         "dayNum": "16",
         "venue": "Kanagawa, Japon — Muza Kawasaki Symphony Hall · 19:00",
-        "title": "Keigo Mukawa — Récital de piano"
+        "title": "Keigo Mukawa — Récital de piano",
+        "soldOut": true
       },
       {
         "date": "19.12.2026",
@@ -802,7 +811,15 @@ window.CONCERTS_DATA = {
         "day": "Sat",
         "dayNum": "28",
         "venue": "Tokyo, Japan — 府中の森芸術劇場 ウィーンホール · 14h00",
-        "title": "務川慧悟ピアノ・リサイタル2026"
+        "title": "務川慧悟ピアノ・リサイタル2026",
+        "soldOut": true
+      },
+      {
+        "date": "06.12.2026",
+        "day": "Sun",
+        "dayNum": "06",
+        "venue": "Fukuoka, Japan — 八女市民会館 おりなす八女 ハーモニーホール · Doors 13h15 · 14h00",
+        "title": "務川慧悟ピアノ・リサイタル"
       },
       {
         "date": "12.12.2026",
@@ -816,7 +833,8 @@ window.CONCERTS_DATA = {
         "day": "Wed",
         "dayNum": "16",
         "venue": "Kanagawa, Japan — Muza Kawasaki Symphony Hall · 19:00",
-        "title": "Keigo Mukawa — Piano recital"
+        "title": "Keigo Mukawa — Piano recital",
+        "soldOut": true
       },
       {
         "date": "19.12.2026",
