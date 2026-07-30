@@ -82,6 +82,13 @@ window.CONCERTS_DATA = {
         "title": "日本フィルハーモニー交響楽団 第414回名曲コンサート"
       },
       {
+        "date": "31.10.2026",
+        "day": "sam.",
+        "dayNum": "31",
+        "venue": "Shizuoka, Japon — 三島市民文化会館 大ホール · Ouverture 13h30 · 14h00",
+        "title": "三島の秋 プレミアム・コンサート 2026"
+      },
+      {
         "date": "03.11.2026",
         "day": "mar.",
         "dayNum": "03",
@@ -107,15 +114,15 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — しらかわホール · Ouverture 12h30 · 13h00",
-        "title": "務川慧悟 スペシャルコンサート ～ピアノを学ぶあなたに贈る60分～《名古屋限定》"
+        "venue": "Aichi, Japon — しらかわホール · Ouverture 15h15 · 16h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
       },
       {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — しらかわホール · Ouverture 15h15 · 16h00",
-        "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
+        "venue": "Aichi, Japon — しらかわホール · Ouverture 12h30 · 13h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノを学ぶあなたに贈る60分～《名古屋限定》"
       },
       {
         "date": "18.11.2026",
@@ -174,6 +181,13 @@ window.CONCERTS_DATA = {
         "dayNum": "19",
         "venue": "Kagawa, Japon — Rexxam Hall (Kagawa Prefectural Hall) · Ouverture 13:30 · 14:00",
         "title": "Keigo Mukawa — Récital de piano"
+      },
+      {
+        "date": "31.12.2026",
+        "day": "jeu.",
+        "dayNum": "31",
+        "venue": "Hyōgo, Japon — 兵庫県立芸術文化センター KOBELCO 大ホール · Ouverture 14h15 · 15h00",
+        "title": "佐渡裕芸術監督プロデュース ジルヴェスター・ガラ・コンサート2026"
       },
       {
         "date": "16.01.2027",
@@ -750,6 +764,13 @@ window.CONCERTS_DATA = {
         "title": "日本フィルハーモニー交響楽団 第414回名曲コンサート"
       },
       {
+        "date": "31.10.2026",
+        "day": "Sat",
+        "dayNum": "31",
+        "venue": "Shizuoka, Japan — 三島市民文化会館 大ホール · Doors 13h30 · 14h00",
+        "title": "三島の秋 プレミアム・コンサート 2026"
+      },
+      {
         "date": "03.11.2026",
         "day": "Tue",
         "dayNum": "03",
@@ -775,15 +796,15 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — しらかわホール · Doors 12h30 · 13h00",
-        "title": "務川慧悟 スペシャルコンサート ～ピアノを学ぶあなたに贈る60分～《名古屋限定》"
+        "venue": "Aichi, Japan — しらかわホール · Doors 15h15 · 16h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
       },
       {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — しらかわホール · Doors 15h15 · 16h00",
-        "title": "務川慧悟 スペシャルコンサート ～ピアノリサイタル2026～"
+        "venue": "Aichi, Japan — しらかわホール · Doors 12h30 · 13h00",
+        "title": "務川慧悟 スペシャルコンサート ～ピアノを学ぶあなたに贈る60分～《名古屋限定》"
       },
       {
         "date": "18.11.2026",
@@ -842,6 +863,13 @@ window.CONCERTS_DATA = {
         "dayNum": "19",
         "venue": "Kagawa, Japan — Rexxam Hall (Kagawa Prefectural Hall) · Doors 13:30 · 14:00",
         "title": "Keigo Mukawa — Piano recital"
+      },
+      {
+        "date": "31.12.2026",
+        "day": "Thu",
+        "dayNum": "31",
+        "venue": "Hyōgo, Japan — 兵庫県立芸術文化センター KOBELCO 大ホール · Doors 14h15 · 15h00",
+        "title": "佐渡裕芸術監督プロデュース ジルヴェスター・ガラ・コンサート2026"
       },
       {
         "date": "16.01.2027",
