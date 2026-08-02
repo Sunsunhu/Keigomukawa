@@ -176,7 +176,9 @@ window.PROGRAMMES_DATA = {
         pdfFilename: 'Keigo Mukawa - De Beethoven à la décadence.pdf',
         meta: 'Programme de récital · env. 90 minutes',
         intro: [
-          'De la rigueur classique de Beethoven à l’extase fin-de-siècle, ce programme oppose deux visages de la beauté musicale : la structure architecturée et l’ivresse sonore. Les trois sonates de Beethoven ouvrent la première partie ; après l’entracte, Ravel, Debussy, Crumb et Scriabin mènent vers un monde de masques, de rêves et de valse.',
+          'Intitulé « Deux aspects de la beauté », ce programme propose, dans sa première partie, à l’occasion du bicentenaire de la disparition de Beethoven, deux sonates en fa qui mettent en lumière l’un des aspects de la beauté que Beethoven a explorée tout au long de sa vie à travers la forme sonate : la beauté de la structure. La Sonate « Appassionata », en particulier, représente l’un des sommets de la période médiane de Beethoven par sa construction parfaite, qui aboutit à une énergie explosive.',
+          'La seconde partie nous conduit vers un univers tout à fait opposé : celui d’une beauté de l’extase. Symbolisme, décadence, recherche de l’extase — les œuvres réunies ici s’inscrivent dans ces courants artistiques particulièrement présents entre la fin du XIXᵉ siècle et le début du XXᵉ siècle.',
+          'Ainsi, ce programme offrira au public une expérience d’écoute enrichissante, en l’invitant à découvrir deux visages contrastés de la beauté.',
         ],
         pieces: [
           {
@@ -448,7 +450,9 @@ window.PROGRAMMES_DATA = {
         pdfFilename: 'Keigo Mukawa - From Beethoven to Decadence.pdf',
         meta: 'Recital programme · c. 90 minutes',
         intro: [
-          'From Beethoven’s classical rigour to fin-de-siècle ecstasy, this programme sets two faces of musical beauty in dialogue: architectural structure and sonic intoxication. Three Beethoven sonatas open the first half; after the intermission, Ravel, Debussy, Crumb and Scriabin lead toward a world of masks, dreams and waltz.',
+          'Entitled “Two Aspects of Beauty”, this programme opens, on the occasion of the bicentenary of Beethoven’s death, with two sonatas in F that shed light on one of the aspects of beauty Beethoven explored throughout his life through the sonata form: the beauty of structure. The “Appassionata” Sonata in particular stands as one of the summits of Beethoven’s middle period, its perfect construction culminating in explosive energy.',
+          'The second half leads us into an entirely opposite world: that of a beauty of ecstasy. Symbolism, decadence, the pursuit of ecstasy — the works gathered here belong to artistic currents especially present between the end of the 19th century and the beginning of the 20th.',
+          'This programme will thus offer the audience an enriching listening experience, inviting them to discover two contrasting faces of beauty.',
         ],
         pieces: [
           { text: 'Beethoven — Piano Sonata No. 1 in F minor, Op. 2 No. 1', duration: '16′' },
