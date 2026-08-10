@@ -1147,7 +1147,7 @@ section { padding: clamp(4rem, 10vw, 8rem) var(--gutter); }
   grid-row: 2;
   font-size: 0.82rem;
   font-style: italic;
-  color: #b3b3b3;
+  color: var(--black);
   letter-spacing: 0.02em;
 }
 
