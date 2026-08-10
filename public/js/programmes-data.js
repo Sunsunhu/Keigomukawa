@@ -211,7 +211,6 @@ window.PROGRAMMES_DATA = {
         subtitle: 'Un voyage nocturne',
         pdfFilename: 'Keigo Mukawa - La Nuit, du crépuscule à l’ivresse.pdf',
         meta: 'Programme de récital · Durée totale : env. 55 min',
-        worksFirst: true,
         intro: [
           'La nuit révèle un autre visage du monde que celui du jour, et depuis toujours, elle occupe une place importante dans l’inspiration musicale. Ce programme vous invite ainsi à un voyage nocturne.',
           'On commence par le crépuscule, dont nous connaissons tous la beauté particulière, lorsque le jour s’efface ; elle trouve, dans le Nocturne, une œuvre de jeunesse de Debussy, une expression presque extatique. Puis, avec Les soirs illuminés par l’ardeur du charbon et Les Soirées de Nazelles, nous pénétrons dans l’univers plus intime de la soirée : celui d’un intérieur doucement éclairé, chaleureux, habité de présences et de conversations.',
@@ -510,7 +509,6 @@ window.PROGRAMMES_DATA = {
         subtitle: 'A nocturnal journey',
         pdfFilename: 'Keigo Mukawa - The Night, from Twilight to Intoxication.pdf',
         meta: 'Recital programme · Total duration: c. 55 min',
-        worksFirst: true,
         intro: [
           'Night reveals a face of the world unlike that of day, and it has always held an important place in musical inspiration. This programme invites you on a nocturnal journey.',
           'It begins at twilight, whose particular beauty we all know as daylight fades; in the Nocturne, an early work by Debussy, it finds an almost ecstatic expression. Then, with Les soirs illuminés par l’ardeur du charbon and Les Soirées de Nazelles, we enter the more intimate world of the evening: a softly lit, warm interior, filled with presences and conversation.',

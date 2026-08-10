@@ -83,8 +83,8 @@
       worksHtml += '</div>';
     }
 
-    // worksFirst : afficher les œuvres avant le texte d'introduction
-    html += programme.worksFirst ? worksHtml + introHtml : introHtml + worksHtml;
+    // Toujours afficher les œuvres avant le texte d'introduction
+    html += worksHtml + introHtml;
 
     if (programme.footnote) {
       html += `<p class="programme-detail__footer">${escapeHtml(programme.footnote)}</p>`;
