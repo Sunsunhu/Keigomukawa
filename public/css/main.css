@@ -1049,7 +1049,6 @@ section { padding: clamp(4rem, 10vw, 8rem) var(--gutter); }
   color: var(--gray-mid);
   margin: 0 0 0;
   padding-bottom: 1.75rem;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
 }
 
 .programme-modal__body {
@@ -1172,12 +1171,22 @@ section { padding: clamp(4rem, 10vw, 8rem) var(--gutter); }
 }
 
 .programme-piece--break {
-  display: block;
-  padding: 3.25rem 0 2.75rem;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 2.25rem 0 2rem;
   margin: 0.5rem 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.07);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+  border-bottom: none;
   text-align: center;
+}
+
+/* Lignes de part et d'autre du mot « Entracte » */
+.programme-piece--break::before,
+.programme-piece--break::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: rgba(0, 0, 0, 0.07);
 }
 
 .programme-list .programme-piece:has(+ .programme-piece--break) {
@@ -1315,9 +1324,9 @@ body.programme-modal-open {
   border-bottom-color: rgba(0, 0, 0, 0.09);
 }
 
-.programme-pdf-sheet .programme-piece--break {
-  border-top-color: rgba(0, 0, 0, 0.12);
-  border-bottom-color: rgba(0, 0, 0, 0.12);
+.programme-pdf-sheet .programme-piece--break::before,
+.programme-pdf-sheet .programme-piece--break::after {
+  background: rgba(0, 0, 0, 0.12);
 }
 
 .programme-pdf-sheet .programme-section__composer {
@@ -1327,10 +1336,6 @@ body.programme-modal-open {
 .programme-pdf-sheet .programme-detail__legend,
 .programme-pdf-sheet .programme-detail__footer {
   border-top-color: rgba(0, 0, 0, 0.1);
-}
-
-.programme-pdf-sheet .programme-modal__subtitle {
-  border-bottom-color: rgba(0, 0, 0, 0.12);
 }
 
 /* Keep blocks intact across PDF pages */
