@@ -55,19 +55,15 @@
 
   function renderProgrammeBody(programme, ui, lang) {
     let html = '<div class="programme-detail">';
-    const hasIntro = programme.meta || (programme.intro && programme.intro.length);
 
+    // Le meta (durée) est rattaché au bloc des œuvres pour rester sur la
+    // même page qu'elles dans le PDF ; l'intro forme un bloc séparé.
     let introHtml = '';
-    if (hasIntro) {
+    if (programme.intro && programme.intro.length) {
       introHtml += '<div class="programme-detail__intro">';
-      if (programme.meta) {
-        introHtml += `<p class="programme-detail__meta">${escapeHtml(programme.meta)}</p>`;
-      }
-      if (programme.intro) {
-        programme.intro.forEach((p) => {
-          introHtml += `<p class="programme-detail__text">${escapeHtml(p)}</p>`;
-        });
-      }
+      programme.intro.forEach((p) => {
+        introHtml += `<p class="programme-detail__text">${escapeHtml(p)}</p>`;
+      });
       introHtml += '</div>';
     }
 
@@ -79,6 +75,9 @@
       }
       if (programme.pieces) {
         worksHtml += `<ul class="programme-list">${renderPieces(programme.pieces, lang)}</ul>`;
+      }
+      if (programme.meta) {
+        worksHtml += `<p class="programme-detail__meta">${escapeHtml(programme.meta)}</p>`;
       }
       worksHtml += '</div>';
     }
@@ -214,6 +213,7 @@
           }
           @media print {
             .programme-pdf-sheet .programme-detail__intro,
+            .programme-pdf-sheet .programme-detail__meta,
             .programme-pdf-sheet .programme-section,
             .programme-pdf-sheet .programme-piece,
             .programme-pdf-sheet .programme-detail__legend,
@@ -236,6 +236,14 @@
       if (programme.sections) sheet.classList.add('programme-pdf-sheet--sections');
       sheet.setAttribute('aria-hidden', 'true');
       sheet.innerHTML = buildProgrammeSheetMarkup(programme);
+      // html2pdf mesure mal les éléments en position fixed/absolute (hauteur 0) :
+      // insérer la feuille dans le flux normal, en bas de page (invisible :
+      // la modale est ouverte et le défilement est bloqué pendant la génération).
+      sheet.style.position = 'static';
+      sheet.style.left = 'auto';
+      sheet.style.top = 'auto';
+      sheet.style.zIndex = 'auto';
+      sheet.style.margin = '0';
       document.body.appendChild(sheet);
       return sheet;
     }
@@ -278,6 +286,7 @@
               mode: ['avoid-all', 'css', 'legacy'],
               avoid: [
                 '.programme-detail__intro',
+                '.programme-detail__meta',
                 '.programme-section',
                 '.programme-section__composer',
                 '.programme-piece',
