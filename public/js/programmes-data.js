@@ -229,6 +229,7 @@ window.PROGRAMMES_DATA = {
           {
             text: 'Respighi — Extraits des Six Pièces pour piano',
             note: '1. Valse · 2. Canon · 3. Nocturne',
+            noteIndent: 'Respighi — ',
           },
           { text: 'Chopin — Impromptu n° 3 en sol bémol majeur, op. 51' },
           { text: 'Chopin — Barcarolle en fa dièse majeur, op. 60' },
@@ -527,6 +528,7 @@ window.PROGRAMMES_DATA = {
           {
             text: 'Respighi — Excerpts from Six Pieces for Piano',
             note: '1. Valse · 2. Canon · 3. Nocturne',
+            noteIndent: 'Respighi — ',
           },
           { text: 'Chopin — Impromptu No. 3 in G-flat major, Op. 51' },
           { text: 'Chopin — Barcarolle in F-sharp major, Op. 60' },

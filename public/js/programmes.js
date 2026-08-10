@@ -17,8 +17,11 @@
         if (item.intermission) {
           return `<li class="programme-piece programme-piece--break"><span class="programme-piece__break">${intermission}</span></li>`;
         }
+        const noteIndent = item.noteIndent
+          ? `<span class="programme-piece__note-indent" aria-hidden="true">${escapeHtml(item.noteIndent)}</span>`
+          : '';
         const note = item.note
-          ? `<span class="programme-piece__note">${escapeHtml(item.note)}</span>`
+          ? `<span class="programme-piece__note">${noteIndent}${escapeHtml(item.note)}</span>`
           : '';
         const duration = item.duration
           ? `<span class="programme-piece__duration">${escapeHtml(item.duration)}</span>`

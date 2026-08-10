@@ -1147,8 +1147,17 @@ section { padding: clamp(4rem, 10vw, 8rem) var(--gutter); }
   grid-row: 2;
   font-size: 0.82rem;
   font-style: italic;
-  color: var(--gray-mid);
+  color: #b3b3b3;
   letter-spacing: 0.02em;
+}
+
+/* Préfixe invisible reproduisant « Compositeur — » de la ligne du dessus,
+   pour aligner la note sur le début du titre de l'œuvre. */
+.programme-piece__note-indent {
+  visibility: hidden;
+  font-style: normal;
+  font-size: 0.98rem;
+  letter-spacing: 0.01em;
 }
 
 .programme-piece__duration {
