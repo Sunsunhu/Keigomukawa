@@ -279,7 +279,6 @@
               letterRendering: true,
               scrollX: 0,
               scrollY: 0,
-              windowWidth: 680,
             },
             jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
             pagebreak: {
