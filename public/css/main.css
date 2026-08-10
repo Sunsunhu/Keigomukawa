@@ -1069,7 +1069,15 @@ section { padding: clamp(4rem, 10vw, 8rem) var(--gutter); }
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--gray-mid);
+  text-align: right;
   margin: 0 0 1.25rem;
+}
+
+/* Bloc intro réduit au seul meta (programmes sans texte) : pas de ligne finale */
+.programme-detail__intro:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 .programmes-page [data-programmes-intro],

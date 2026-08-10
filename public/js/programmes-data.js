@@ -238,8 +238,8 @@ window.PROGRAMMES_DATA = {
       {
         id: 'mosaique',
         title: 'Mosaïque parisienne',
-        subtitle: 'Programme de récital · env. 90 minutes',
         pdfFilename: 'Keigo Mukawa - Mosaïque parisienne.pdf',
+        meta: 'Programme de récital · env. 90 minutes',
         intro: [
           'Ce programme vous invite dans l’univers musical parisien à travers une mosaïque d’œuvres de compositeurs ayant tous vécu à Paris — qu’ils soient français ou étrangers. Danse, impressionnisme, cosmopolitisme, l’esprit de salon, hommage au passé… La culture musicale parisienne s’est toujours nourrie d’une grande diversité d’influences. Réunies et agencées en tenant compte des liens de contexte entre elles, ces œuvres composent un concert qui permet de ressentir un Paris à la fois divers et profond.',
         ],
@@ -276,8 +276,8 @@ window.PROGRAMMES_DATA = {
       {
         id: 'hommage',
         title: 'Hommage au Salon Parisien',
-        subtitle: 'Programme de récital · env. 90 minutes',
         pdfFilename: 'Keigo Mukawa - Hommage au Salon Parisien.pdf',
+        meta: 'Programme de récital · env. 90 minutes',
         pieces: [
           { text: 'Satie — Le Piccadilly', duration: '2′' },
           { text: 'Satie — Valse-ballet', duration: '3′' },
@@ -536,8 +536,8 @@ window.PROGRAMMES_DATA = {
       {
         id: 'mosaique',
         title: 'Parisian Mosaic',
-        subtitle: 'Recital programme · c. 90 minutes',
         pdfFilename: 'Keigo Mukawa - Parisian Mosaic.pdf',
+        meta: 'Recital programme · c. 90 minutes',
         intro: [
           'This programme invites you into the musical world of Paris through a mosaic of works by composers who all lived in the French capital — whether French or foreign. Dance, Impressionism, cosmopolitanism, the spirit of the salon, homage to the past… Parisian musical culture has always drawn on a great diversity of influences. Gathered and arranged with attention to their contextual links, these works form a concert that conveys a Paris at once diverse and profound.',
         ],
@@ -565,8 +565,8 @@ window.PROGRAMMES_DATA = {
       {
         id: 'hommage',
         title: 'Homage to the Parisian Salon',
-        subtitle: 'Recital programme · c. 90 minutes',
         pdfFilename: 'Keigo Mukawa - Homage to the Parisian Salon.pdf',
+        meta: 'Recital programme · c. 90 minutes',
         pieces: [
           { text: 'Satie — Le Piccadilly', duration: '2′' },
           { text: 'Satie — Valse-ballet', duration: '3′' },
