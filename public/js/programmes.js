@@ -54,29 +54,34 @@
     let html = '<div class="programme-detail">';
     const hasIntro = programme.meta || (programme.intro && programme.intro.length);
 
+    let introHtml = '';
     if (hasIntro) {
-      html += '<div class="programme-detail__intro">';
+      introHtml += '<div class="programme-detail__intro">';
       if (programme.meta) {
-        html += `<p class="programme-detail__meta">${escapeHtml(programme.meta)}</p>`;
+        introHtml += `<p class="programme-detail__meta">${escapeHtml(programme.meta)}</p>`;
       }
       if (programme.intro) {
         programme.intro.forEach((p) => {
-          html += `<p class="programme-detail__text">${escapeHtml(p)}</p>`;
+          introHtml += `<p class="programme-detail__text">${escapeHtml(p)}</p>`;
         });
       }
-      html += '</div>';
+      introHtml += '</div>';
     }
 
+    let worksHtml = '';
     if (programme.sections || programme.pieces) {
-      html += '<div class="programme-detail__works">';
+      worksHtml += '<div class="programme-detail__works">';
       if (programme.sections) {
-        html += renderSections(programme.sections, ui.footnoteOptional);
+        worksHtml += renderSections(programme.sections, ui.footnoteOptional);
       }
       if (programme.pieces) {
-        html += `<ul class="programme-list">${renderPieces(programme.pieces, lang)}</ul>`;
+        worksHtml += `<ul class="programme-list">${renderPieces(programme.pieces, lang)}</ul>`;
       }
-      html += '</div>';
+      worksHtml += '</div>';
     }
+
+    // worksFirst : afficher les œuvres avant le texte d'introduction
+    html += programme.worksFirst ? worksHtml + introHtml : introHtml + worksHtml;
 
     if (programme.footnote) {
       html += `<p class="programme-detail__footer">${escapeHtml(programme.footnote)}</p>`;
