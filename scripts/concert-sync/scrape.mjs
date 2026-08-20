@@ -15,12 +15,27 @@ const BASE = 'https://keigomukawa.com';
 const UA =
   'Mozilla/5.0 (compatible; KeigoMukawaSiteBot/1.0; +https://keigomukawa.com/concert/)';
 
-async function fetchHtml(url) {
-  const res = await fetch(url, {
-    headers: { 'User-Agent': UA, 'Accept-Language': 'ja' },
-  });
-  if (!res.ok) throw new Error(`HTTP ${res.status} pour ${url}`);
-  return res.text();
+// Jusqu'à 3 tentatives avec attente progressive : les erreurs réseau passagères
+// (timeout, coupure, 5xx du serveur WordPress) ne font plus échouer le job horaire.
+async function fetchHtml(url, { attempts = 3 } = {}) {
+  let lastErr;
+  for (let i = 1; i <= attempts; i++) {
+    try {
+      const res = await fetch(url, {
+        headers: { 'User-Agent': UA, 'Accept-Language': 'ja' },
+        signal: AbortSignal.timeout(30000),
+      });
+      if (res.status === 404) throw new Error(`HTTP 404 pour ${url}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status} pour ${url}`);
+      return await res.text();
+    } catch (err) {
+      // 404 = fin de pagination : inutile de réessayer.
+      if (/HTTP 404/.test(String(err))) throw err;
+      lastErr = err;
+      if (i < attempts) await new Promise((r) => setTimeout(r, 2000 * i));
+    }
+  }
+  throw lastErr;
 }
 
 function stripTags(s) {

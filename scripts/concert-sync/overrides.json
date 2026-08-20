@@ -5,8 +5,8 @@
       "title": "Orchestre de chambre de Kobe — 171e concert régulier « Un grand départ »"
     },
     "en": {
-      "venue": "Hyōgo, Japan — Kobe Bunka Hall — Grande salle · 15:00",
-      "title": "Orchestre de chambre de Kobe — 171e concert régulier « Un grand départ »"
+      "venue": "Hyōgo, Japan — Kobe Bunka Hall — Main Hall · 15:00",
+      "title": "Kobe Chamber Orchestra — 171st Subscription Concert \"A Grand Departure\""
     }
   },
   "1182": {
@@ -26,7 +26,7 @@
     },
     "en": {
       "venue": "Kanagawa, Japan — Muza Kawasaki Symphony Hall · Doors 13:00 · 14:00",
-      "title": "Tokyo Metropolitan Symphony Orchestra — Spécial Tōkyō (6/15)"
+      "title": "Tokyo Metropolitan Symphony Orchestra — Tokyo Special (6/15)"
     }
   },
   "1227": {
@@ -36,27 +36,27 @@
     },
     "en": {
       "venue": "Aichi, Japan — Aichi Prefectural Art Theater — Concert Hall · Doors 18:00 · 18:45",
-      "title": "Central Aichi Symphony Orchestra — Série W Concerto 2025 — Keigo Mukawa vol. 1"
+      "title": "Central Aichi Symphony Orchestra — W Concerto Series 2025 — Keigo Mukawa vol. 1"
     }
   },
   "1235": {
     "fr": {
-      "venue": "Tokyo, Japon — ティアラこうとう（江東公会堂）大ホール · Ouverture 14:15 · 15:00",
-      "title": "東京シティ・フィルハーモニック管弦楽団 第84回ティアラこうとう定期演奏会"
+      "venue": "Tokyo, Japon — Tiara Kōtō (Kōtō Public Hall) — Grande salle · Ouverture 14:15 · 15:00",
+      "title": "Tokyo City Philharmonic — 84e concert d'abonnement à Tiara Kōtō"
     },
     "en": {
-      "venue": "Tokyo, Japan — ティアラこうとう（江東公会堂）大ホール · Doors 14:15 · 15:00",
-      "title": "東京シティ・フィルハーモニック管弦楽団 第84回ティアラこうとう定期演奏会"
+      "venue": "Tokyo, Japan — Tiara Koto (Koto Public Hall) — Main Hall · Doors 14:15 · 15:00",
+      "title": "Tokyo City Philharmonic Orchestra — 84th Tiara Koto Subscription Concert"
     }
   },
   "1237": {
     "fr": {
-      "venue": "Ishikawa, Japon — 石川県立音楽堂 コンサートホール · Ouverture 18:00 · 19:00",
-      "title": "オーケストラアンサンブル金沢 第498回定期公演フィルハーモニー・シリーズ"
+      "venue": "Ishikawa, Japon — Ishikawa Ongakudō — Concert Hall · Ouverture 18:00 · 19:00",
+      "title": "Orchestra Ensemble Kanazawa — 498e concert d'abonnement, série Philharmonie"
     },
     "en": {
-      "venue": "Ishikawa, Japan — 石川県立音楽堂 コンサートホール · Doors 18:00 · 19:00",
-      "title": "オーケストラアンサンブル金沢 第498回定期公演フィルハーモニー・シリーズ"
+      "venue": "Ishikawa, Japan — Ishikawa Ongakudo — Concert Hall · Doors 18:00 · 19:00",
+      "title": "Orchestra Ensemble Kanazawa — 498th Subscription Concert, Philharmonic Series"
     }
   },
   "1238": {
@@ -72,11 +72,11 @@
   "1239": {
     "fr": {
       "venue": "Osaka, Japon — Sumitomo Life Izumi Hall · 19:00",
-      "title": "モーツァルト・ピアノ協奏曲の旅〈ウィーン編〉 Vol.2"
+      "title": "Le voyage des concertos pour piano de Mozart — chapitre viennois, vol. 2"
     },
     "en": {
       "venue": "Osaka, Japan — Sumitomo Life Izumi Hall · 19:00",
-      "title": "モーツァルト・ピアノ協奏曲の旅〈ウィーン編〉 Vol.2"
+      "title": "Mozart Piano Concerto Journey — Vienna Chapter, Vol. 2"
     }
   },
   "1244": {
@@ -85,7 +85,7 @@
       "title": "Keigo Mukawa — Récital de piano"
     },
     "en": {
-      "venue": "Nagano, Japan — Halle de musique du plateau Yatsugatake · Doors 14:30 · 15:00",
+      "venue": "Nagano, Japan — Yatsugatake Kogen Music Hall · Doors 14:30 · 15:00",
       "title": "Keigo Mukawa — Piano recital"
     }
   },
@@ -95,7 +95,7 @@
       "title": "Keigo Mukawa — Récital de piano"
     },
     "en": {
-      "venue": "Nagano, Japan — Halle de musique du plateau Yatsugatake · Doors 14:30 · 15:00",
+      "venue": "Nagano, Japan — Yatsugatake Kogen Music Hall · Doors 14:30 · 15:00",
       "title": "Keigo Mukawa — Piano recital"
     }
   },
@@ -106,7 +106,7 @@
     },
     "en": {
       "venue": "Osaka, Japan — Sumitomo Life Izumi Hall · Doors 14:15 · 15:00",
-      "title": "Keigo Mukawa — Piano recital 150e anniversaire de Ravel — Œuvre complète pour piano solo de Maurice Ravel"
+      "title": "Keigo Mukawa — Piano Recital — Ravel 150th Anniversary: Complete Works for Solo Piano"
     }
   },
   "1265": {
@@ -116,7 +116,7 @@
     },
     "en": {
       "venue": "Tokyo, Japan — Hamarikyu Asahi Hall · Doors 17:15 · 18:00",
-      "title": "Keigo Mukawa — Piano recital 150e anniversaire de Ravel — Œuvre complète pour piano solo de Maurice Ravel"
+      "title": "Keigo Mukawa — Piano Recital — Ravel 150th Anniversary: Complete Works for Solo Piano"
     }
   },
   "1267": {
@@ -126,7 +126,7 @@
     },
     "en": {
       "venue": "Tokyo, Japan — Hamarikyu Asahi Hall · Doors 17:15 · 18:00",
-      "title": "Keigo Mukawa — Piano recital 150e anniversaire de Ravel — Œuvre complète pour piano solo de Maurice Ravel"
+      "title": "Keigo Mukawa — Piano Recital — Ravel 150th Anniversary: Complete Works for Solo Piano"
     }
   },
   "1270": {
@@ -151,51 +151,51 @@
   },
   "1284": {
     "fr": {
-      "venue": "Miyagi, Japon — 日立システムズホール仙台 コンサートホール · Ouverture 14:15 · 15:00",
+      "venue": "Miyagi, Japon — Hitachi Systems Hall Sendai — Concert Hall · Ouverture 14:15 · 15:00",
       "title": "Sendai Philharmonic — « Orchestre à table ! » vol. 3 : Splendeur américaine"
     },
     "en": {
-      "venue": "Miyagi, Japan — 日立システムズホール仙台 コンサートホール · Doors 14:15 · 15:00",
+      "venue": "Miyagi, Japan — Hitachi Systems Hall Sendai — Concert Hall · Doors 14:15 · 15:00",
       "title": "Sendai Philharmonic — « Orchestre à table ! » vol. 3 : Splendeur américaine"
     }
   },
   "1285": {
     "fr": {
-      "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 18:00 · 18:40",
-      "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
+      "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 18:00 · 18:40",
+      "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
     },
     "en": {
-      "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 18:00 · 18:40",
-      "title": "スタクラ 2025 IN 横浜 ガーシュウィン meets ラヴェル"
+      "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 18:00 · 18:40",
+      "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
     }
   },
   "1286": {
     "fr": {
-      "venue": "Kanagawa, Japon — 横浜みなとみらいホール 大ホール · Ouverture 14:00 · 14:40",
-      "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
+      "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 14:00 · 14:40",
+      "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
     },
     "en": {
-      "venue": "Kanagawa, Japan — 横浜みなとみらいホール 大ホール · Doors 14:00 · 14:40",
-      "title": "スタクラ 2025 IN 横浜 Keigo Mukawa ALL CHOPIN"
+      "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 14:00 · 14:40",
+      "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
     }
   },
   "1287": {
     "fr": {
       "venue": "Tokyo, Japon — Bunkamura Orchard Hall · Ouverture 14:15 · 15:00",
-      "title": "Pianos&#8217; Conversation 2025"
+      "title": "Pianos’ Conversation 2025"
     },
     "en": {
       "venue": "Tokyo, Japan — Bunkamura Orchard Hall · Doors 14:15 · 15:00",
-      "title": "Pianos&#8217; Conversation 2025"
+      "title": "Pianos’ Conversation 2025"
     }
   },
   "1288": {
     "fr": {
-      "venue": "Shizuoka, Japon — 磐田市民文化会館「かたりあ」 · Ouverture 17:45 · 18:30",
+      "venue": "Shizuoka, Japon — Iwata Civic Cultural Hall « Kataria » · Ouverture 17:45 · 18:30",
       "title": "Keigo Mukawa — Récital de piano"
     },
     "en": {
-      "venue": "Shizuoka, Japan — 磐田市民文化会館「かたりあ」 · Doors 17:45 · 18:30",
+      "venue": "Shizuoka, Japan — Iwata Civic Cultural Hall \"Kataria\" · Doors 17:45 · 18:30",
       "title": "Keigo Mukawa — Piano recital"
     }
   },
@@ -206,7 +206,7 @@
     },
     "en": {
       "venue": "Hyōgo, Japan — Parnassus Hall · Doors 13:30 · 14:00",
-      "title": "Série piano vol. 3 — Keigo Mukawa — Piano recital"
+      "title": "Piano Series vol. 3 — Keigo Mukawa — Piano Recital"
     }
   },
   "1296": {
@@ -216,7 +216,7 @@
     },
     "en": {
       "venue": "Kanagawa, Japan — Kawasaki Arts Center · Doors 13:15 · 14:00",
-      "title": "Keigo Mukawa × Shiei Suzuki × Orchestre philharmonique de Kanagawa — Concert de chefs-d'œuvre"
+      "title": "Keigo Mukawa × Shiei Suzuki × Kanagawa Philharmonic Orchestra — Masterpieces Concert"
     }
   },
   "1298": {
@@ -231,22 +231,22 @@
   },
   "1299": {
     "fr": {
-      "venue": "Saitama, Japon — 彩の国さいたま芸術劇場　音楽ホール · 15:00",
-      "title": "エトワール・シリーズ プラス Keigo Mukawa Part. 2 ピアノ・ リサイタル『Beethoven innovant』"
+      "venue": "Saitama, Japon — Saitama Arts Theater — Salle de musique · 15:00",
+      "title": "Série Étoile Plus — Keigo Mukawa Part. 2 — Récital de piano « Beethoven innovant »"
     },
     "en": {
-      "venue": "Saitama, Japan — 彩の国さいたま芸術劇場　音楽ホール · 15:00",
-      "title": "エトワール・シリーズ プラス Keigo Mukawa Part. 2 ピアノ・ リサイタル『Beethoven innovant』"
+      "venue": "Saitama, Japan — Saitama Arts Theater — Music Hall · 15:00",
+      "title": "Étoile Series Plus — Keigo Mukawa Part. 2 — Piano Recital \"Beethoven innovant\""
     }
   },
   "1307": {
     "fr": {
-      "venue": "Johannesburg, Afrique du Sud — ヨハネスブルグ　リンダー講堂 · 15:00",
+      "venue": "Johannesburg, Afrique du Sud — The Linder Auditorium · 15:00",
       "title": "Récital de piano solo"
     },
     "en": {
-      "venue": "Johannesburg, Afrique du Sud — ヨハネスブルグ　リンダー講堂 · 15:00",
-      "title": "Piano recital solo"
+      "venue": "Johannesburg, South Africa — The Linder Auditorium · 15:00",
+      "title": "Solo piano recital"
     }
   },
   "1309": {
@@ -255,8 +255,8 @@
       "title": "Saison Early Spring — Concert 3"
     },
     "en": {
-      "venue": "Johannesburg, Afrique du Sud — The Linder Auditorium · 19:30",
-      "title": "Saison Early Spring — Concert 3"
+      "venue": "Johannesburg, South Africa — The Linder Auditorium · 19:30",
+      "title": "Early Spring Season — Concert 3"
     }
   },
   "1314": {
@@ -265,8 +265,8 @@
       "title": "Récital solo"
     },
     "en": {
-      "venue": "Johannesburg, Afrique du Sud — Glenshiel · 15:00",
-      "title": "Récital solo"
+      "venue": "Johannesburg, South Africa — Glenshiel · 15:00",
+      "title": "Solo recital"
     }
   },
   "1316": {
@@ -275,8 +275,8 @@
       "title": "KZN Philharmonic Orchestra 2025 Saison symphonique Early Spring — Concert 1"
     },
     "en": {
-      "venue": "Durban, Afrique du Sud — Playhouse Opera Theatre · 19:00",
-      "title": "KZN Philharmonic Orchestra 2025 Saison symphonique Early Spring — Concert 1"
+      "venue": "Durban, South Africa — Playhouse Opera Theatre · 19:00",
+      "title": "KZN Philharmonic Orchestra 2025 Early Spring Symphony Season — Concert 1"
     }
   },
   "1322": {
@@ -285,8 +285,8 @@
       "title": "Festival Residart"
     },
     "en": {
-      "venue": "Italie — CASSERO Castello",
-      "title": "Festival Residart"
+      "venue": "Italy — CASSERO Castello",
+      "title": "Residart Festival"
     }
   },
   "1323": {
@@ -295,8 +295,8 @@
       "title": "Festival Residart"
     },
     "en": {
-      "venue": "Italie — MONSANO, Chiesa degli Aroli",
-      "title": "Festival Residart"
+      "venue": "Italy — MONSANO, Chiesa degli Aroli",
+      "title": "Residart Festival"
     }
   },
   "1324": {
@@ -305,7 +305,7 @@
       "title": "Santa Barbara International Music Festival 2025"
     },
     "en": {
-      "venue": "Italie — @CARBONIA - Nuraghe Sirai ore",
+      "venue": "Italy — @CARBONIA - Nuraghe Sirai ore",
       "title": "Santa Barbara International Music Festival 2025"
     }
   },
@@ -315,7 +315,7 @@
       "title": "Santa Barbara International Music Festival 2025"
     },
     "en": {
-      "venue": "Italie — @DOMUSNOVAS - Chiesa di San Giovanni",
+      "venue": "Italy — @DOMUSNOVAS - Chiesa di San Giovanni",
       "title": "Santa Barbara International Music Festival 2025"
     }
   },
@@ -325,7 +325,7 @@
       "title": "Klangwelt Klassik"
     },
     "en": {
-      "venue": "Allemagne — @Rainer-Maria-Rilke Konzertsaal im Gymnasium in Icking",
+      "venue": "Germany — @Rainer-Maria-Rilke Konzertsaal im Gymnasium in Icking",
       "title": "Klangwelt Klassik"
     }
   },
@@ -335,8 +335,8 @@
       "title": "Classique Yokohama n° 204 — Mainichi Zoristen Keigo Mukawa — Récital de piano"
     },
     "en": {
-      "venue": "Kanagawa, Japan — Yokohama Minatomirai Hall — Petite salle · Doors 18:45 · 19:30",
-      "title": "Classique Yokohama n° 204 — Mainichi Zoristen Keigo Mukawa — Piano recital"
+      "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Small Hall · Doors 18:45 · 19:30",
+      "title": "Yokohama Classics No. 204 — Mainichi Zoristen: Keigo Mukawa Piano Recital"
     }
   },
   "1354": {
@@ -346,7 +346,7 @@
     },
     "en": {
       "venue": "Osaka, Japan — Sumitomo Life Izumi Hall · Doors 14:15 · 15:00",
-      "title": "Keigo Mukawa — Deux jours (fortepiano & piano moderne) — Journée du piano moderne"
+      "title": "Keigo Mukawa — Two Days (Fortepiano & Modern Piano) — Modern Piano Day"
     }
   },
   "1355": {
@@ -356,7 +356,7 @@
     },
     "en": {
       "venue": "Osaka, Japan — Sumitomo Life Izumi Hall · Doors 14:15 · 15:00",
-      "title": "Keigo Mukawa — Deux jours (fortepiano & piano moderne) — Journée du fortepiano"
+      "title": "Keigo Mukawa — Two Days (Fortepiano & Modern Piano) — Fortepiano Day"
     }
   },
   "1357": {
@@ -366,7 +366,7 @@
     },
     "en": {
       "venue": "Tokyo, Japan — Hamarikyu Asahi Hall · Doors 18:15 · 19:00",
-      "title": "Keigo Mukawa — Deux jours (fortepiano & piano moderne) — Journée du piano moderne"
+      "title": "Keigo Mukawa — Two Days (Fortepiano & Modern Piano) — Modern Piano Day"
     }
   },
   "1358": {
@@ -376,17 +376,17 @@
     },
     "en": {
       "venue": "Tokyo, Japan — Hamarikyu Asahi Hall · Doors 18:15 · 19:00",
-      "title": "Keigo Mukawa — Deux jours (fortepiano & piano moderne) — Journée du fortepiano"
+      "title": "Keigo Mukawa — Two Days (Fortepiano & Modern Piano) — Fortepiano Day"
     }
   },
   "1363": {
     "fr": {
       "venue": "Tokyo, Japon — BMW Brand Store « FREUDE by BMW » · Ouverture 18:30 · 19:00",
-      "title": "BMW BELIEVES in Classical Music Keigo Mukawaワインペアリングコンサート"
+      "title": "BMW BELIEVES in Classical Music — Concert wine pairing avec Keigo Mukawa"
     },
     "en": {
-      "venue": "Tokyo, Japan — BMW Brand Store « FREUDE by BMW » · Doors 18:30 · 19:00",
-      "title": "BMW BELIEVES in Classical Music Keigo Mukawaワインペアリングコンサート"
+      "venue": "Tokyo, Japan — BMW Brand Store \"FREUDE by BMW\" · Doors 18:30 · 19:00",
+      "title": "BMW BELIEVES in Classical Music — Keigo Mukawa Wine Pairing Concert"
     }
   },
   "1364": {
@@ -396,7 +396,7 @@
     },
     "en": {
       "venue": "Tokyo, Japan — Hamarikyu Asahi Hall · Doors 18:30 · 19:00",
-      "title": "Kyohei Sorita présente — JNO Chamber Colors 2025 : Tomoaki Arita (alto)"
+      "title": "Kyohei Sorita presents — JNO Chamber Colors 2025: Tomoaki Arita (viola)"
     }
   },
   "1367": {
@@ -405,8 +405,8 @@
       "title": "Kyohei Sorita présente — JNO Chamber Colors 2025 : Tomoaki Arita (alto)"
     },
     "en": {
-      "venue": "Nara, Japan — Nara Centennial Hall — Salle moyenne · Doors 18:30 · 19:00",
-      "title": "Kyohei Sorita présente — JNO Chamber Colors 2025 : Tomoaki Arita (alto)"
+      "venue": "Nara, Japan — Nara Centennial Hall — Medium Hall · Doors 18:30 · 19:00",
+      "title": "Kyohei Sorita presents — JNO Chamber Colors 2025: Tomoaki Arita (viola)"
     }
   },
   "1372": {
@@ -416,7 +416,7 @@
     },
     "en": {
       "venue": "Toyama, Japan — Toyama Prefectural Takaoka Cultural Hall · Doors 13:30 · 14:00",
-      "title": "Keigo Mukawa — Piano recital～Beethoven innovant～"
+      "title": "Keigo Mukawa — Piano Recital \"Beethoven innovant\""
     }
   },
   "1374": {
@@ -425,17 +425,17 @@
       "title": "Forêt des échos vol. 57 — Concert du Nouvel An 2026"
     },
     "en": {
-      "venue": "Tokyo, Japan — Tokyo Bunka Kaikan — Grande salle · Doors 14:15 · 15:00",
-      "title": "Forêt des échos vol. 57 — Concert du Nouvel An 2026"
+      "venue": "Tokyo, Japan — Tokyo Bunka Kaikan — Main Hall · Doors 14:15 · 15:00",
+      "title": "Forest of Echoes vol. 57 — New Year Concert 2026"
     }
   },
   "1377": {
     "fr": {
-      "venue": "Hyōgo, Japon — 兵庫県立芸術文化センター 神戸女学院小ホール · Ouverture 18:30 · 19:00",
+      "venue": "Hyōgo, Japon — Hyogo Performing Arts Center — Petite salle Kobe Jogakuin · Ouverture 18:30 · 19:00",
       "title": "Benjamin Appl (baryton) — « Because I love you »"
     },
     "en": {
-      "venue": "Hyōgo, Japan — 兵庫県立芸術文化センター 神戸女学院小ホール · Doors 18:30 · 19:00",
+      "venue": "Hyōgo, Japan — Hyogo Performing Arts Center — Kobe Jogakuin Small Hall · Doors 18:30 · 19:00",
       "title": "Benjamin Appl (baryton) — « Because I love you »"
     }
   },
@@ -446,7 +446,7 @@
     },
     "en": {
       "venue": "Fukuoka, Japan — Ishibashi Bunka Hall · Doors 14:00 · 15:00",
-      "title": "Yukio Yokoyama & Keigo Mukawa — Récital piano en duo"
+      "title": "Yukio Yokoyama & Keigo Mukawa — Piano Duo Recital"
     }
   },
   "1381": {
@@ -465,8 +465,8 @@
       "title": "Tokyo Spring Festival — Dimanche matin : Francis Poulenc"
     },
     "en": {
-      "venue": "Tokyo, Japan — Tokyo Bunka Kaikan — Petite salle · Doors 10:30 · 11:00",
-      "title": "Tokyo Spring Festival — Dimanche matin : Francis Poulenc"
+      "venue": "Tokyo, Japan — Tokyo Bunka Kaikan — Small Hall · Doors 10:30 · 11:00",
+      "title": "Tokyo Spring Festival — Sunday Morning: Francis Poulenc"
     }
   },
   "1386": {
@@ -475,7 +475,7 @@
       "title": "Orchestre symphonique métropolitain de Tokyo — Promenade Concert n°417"
     },
     "en": {
-      "venue": "Tokyo, Japan — Suntory Hall · Doors 13h00 · 14h00",
+      "venue": "Tokyo, Japan — Suntory Hall · Doors 13:00 · 14:00",
       "title": "Tokyo Metropolitan Symphony Orchestra — Promenade Concert n°417"
     }
   },
@@ -486,7 +486,7 @@
     },
     "en": {
       "venue": "Nara, Japan — Todaiji Hotel, Nara · Doors 16:30 · 17:00",
-      "title": "Une nuit gastronomique avec Keigo Mukawa vol. 02 — « Partition du voyage »"
+      "title": "A Gastronomic Night with Keigo Mukawa vol. 02 — \"Score of the Journey\""
     }
   },
   "1402": {
@@ -501,12 +501,12 @@
   },
   "1409": {
     "fr": {
-      "venue": "Nara, Japon — 秋篠音楽堂 · Ouverture 18:30 · 19:00",
+      "venue": "Nara, Japon — Akishino Music Hall · Ouverture 18:30 · 19:00",
       "title": "Kyohei Sorita présente — JNO Chamber Colors 2026 : Ryota Higuchi × Keigo Mukawa"
     },
     "en": {
-      "venue": "Nara, Japan — 秋篠音楽堂 · Doors 18:30 · 19:00",
-      "title": "Kyohei Sorita présente — JNO Chamber Colors 2026 : Ryota Higuchi × Keigo Mukawa"
+      "venue": "Nara, Japan — Akishino Music Hall · Doors 18:30 · 19:00",
+      "title": "Kyohei Sorita presents — JNO Chamber Colors 2026: Ryota Higuchi × Keigo Mukawa"
     }
   },
   "1410": {
@@ -516,27 +516,27 @@
     },
     "en": {
       "venue": "Aichi, Japan — The Concert Hall, Aichi Arts Center · Doors 18:30 · 19:00",
-      "title": "Kyohei Sorita présente — JNO Chamber Colors 2026 : Ryota Higuchi × Keigo Mukawa, concert en duo"
+      "title": "Kyohei Sorita presents — JNO Chamber Colors 2026: Ryota Higuchi × Keigo Mukawa, Duo Concert"
     }
   },
   "1411": {
     "fr": {
-      "venue": "Kanagawa, Japon — 神奈川県立音楽堂 · Ouverture 13:00 · 13:30",
+      "venue": "Kanagawa, Japon — Kanagawa Prefectural Music Hall · Ouverture 13:00 · 13:30",
       "title": "Holiday Afternoon Concert — « Double Rising Star » : Ryota Higuchi & Keigo Mukawa, récital en duo"
     },
     "en": {
-      "venue": "Kanagawa, Japan — 神奈川県立音楽堂 · Doors 13:00 · 13:30",
-      "title": "Holiday Afternoon Concert — « Double Rising Star » : Ryota Higuchi & Keigo Mukawa, récital en duo"
+      "venue": "Kanagawa, Japan — Kanagawa Prefectural Music Hall · Doors 13:00 · 13:30",
+      "title": "Holiday Afternoon Concert — \"Double Rising Star\": Ryota Higuchi & Keigo Mukawa, Duo Recital"
     }
   },
   "1412": {
     "fr": {
-      "venue": "Kumamoto, Japon — 益城町文化会館 · Ouverture 13:15 · 14:00",
+      "venue": "Kumamoto, Japon — Mashiki Town Cultural Hall · Ouverture 13:15 · 14:00",
       "title": "Kyohei Sorita présente — JNO Chamber Colors 2026 : Ryota Higuchi × Keigo Mukawa, concert en duo"
     },
     "en": {
-      "venue": "Kumamoto, Japan — 益城町文化会館 · Doors 13:15 · 14:00",
-      "title": "Kyohei Sorita présente — JNO Chamber Colors 2026 : Ryota Higuchi × Keigo Mukawa, concert en duo"
+      "venue": "Kumamoto, Japan — Mashiki Town Cultural Hall · Doors 13:15 · 14:00",
+      "title": "Kyohei Sorita presents — JNO Chamber Colors 2026: Ryota Higuchi × Keigo Mukawa, Duo Concert"
     }
   },
   "1414": {
@@ -545,7 +545,7 @@
       "title": "Keigo Mukawa × Waku Hisaato — Pianos' Conversation 2026"
     },
     "en": {
-      "venue": "Tokyo, Japan — Bunkamura Orchard Hall · 15h00",
+      "venue": "Tokyo, Japan — Bunkamura Orchard Hall · 15:00",
       "title": "Keigo Mukawa × Waku Hisaato — Pianos' Conversation 2026"
     }
   },
@@ -575,7 +575,7 @@
       "title": "Moritani Mari & Keigo Mukawa — Récital en duo"
     },
     "en": {
-      "venue": "Shiga, Japan — Shiga Prefectural Arts Theatre, Petite salle Biwako · Doors 13h30 · 14h00",
+      "venue": "Shiga, Japan — Shiga Prefectural Arts Theatre, Biwako Small Hall · Doors 13:30 · 14:00",
       "title": "Moritani Mari & Keigo Mukawa — Duo recital"
     }
   },
@@ -585,7 +585,7 @@
       "title": "Yomiuri Nippon Symphony Orchestra — Concert Parthenon Tama (Fujioka Yukio × Keigo Mukawa)"
     },
     "en": {
-      "venue": "Tokyo, Japan — Parthenon Tama, Grande salle · Doors 13h15 · 14h00",
+      "venue": "Tokyo, Japan — Parthenon Tama, Main Hall · Doors 13:15 · 14:00",
       "title": "Yomiuri Nippon Symphony Orchestra — Concert Parthenon Tama (Fujioka Yukio × Keigo Mukawa)"
     }
   },
@@ -605,8 +605,8 @@
       "title": "Spécial Quatuor II — Gala anniversaire (60e anniversaire)"
     },
     "en": {
-      "venue": "Aichi, Japan — Aichi Arts Center, Concert Hall · 18h45",
-      "title": "Spécial Quatuor II — Gala anniversaire (60e anniversaire)"
+      "venue": "Aichi, Japan — Aichi Arts Center, Concert Hall · 18:45",
+      "title": "Quartet Special II — 60th Anniversary Gala"
     }
   },
   "1421": {
@@ -615,8 +615,8 @@
       "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert orchestral (programme A)"
     },
     "en": {
-      "venue": "Matsumoto, Japan — Kisséi Bunka Hall · 15h00",
-      "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert orchestral (programme A)"
+      "venue": "Matsumoto, Japan — Kissei Bunka Hall · 15:00",
+      "title": "Seiji Ozawa Matsumoto Festival 2026 — Orchestra Concert (Program A)"
     }
   },
   "1422": {
@@ -625,8 +625,8 @@
       "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert orchestral (programme A)"
     },
     "en": {
-      "venue": "Matsumoto, Japan — Kisséi Bunka Hall · 15h00",
-      "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert orchestral (programme A)"
+      "venue": "Matsumoto, Japan — Kissei Bunka Hall · 15:00",
+      "title": "Seiji Ozawa Matsumoto Festival 2026 — Orchestra Concert (Program A)"
     }
   },
   "1423": {
@@ -635,8 +635,8 @@
       "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert de proximité I — Ravel et Takemitsu (30e anniversaire de la disparition de Takemitsu)"
     },
     "en": {
-      "venue": "Matsumoto, Japan — The Harmony Hall · 18h30",
-      "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert de proximité I — Ravel et Takemitsu (30e anniversaire de la disparition de Takemitsu)"
+      "venue": "Matsumoto, Japan — The Harmony Hall · 18:30",
+      "title": "Seiji Ozawa Matsumoto Festival 2026 — Chamber Concert I — Ravel and Takemitsu (30th Anniversary of Takemitsu's Passing)"
     }
   },
   "1424": {
@@ -645,8 +645,8 @@
       "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert de proximité II — Debussy et Takemitsu (30e anniversaire de la disparition de Takemitsu)"
     },
     "en": {
-      "venue": "Matsumoto, Japan — The Harmony Hall · 18h30",
-      "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert de proximité II — Debussy et Takemitsu (30e anniversaire de la disparition de Takemitsu)"
+      "venue": "Matsumoto, Japan — The Harmony Hall · 18:30",
+      "title": "Seiji Ozawa Matsumoto Festival 2026 — Chamber Concert II — Debussy and Takemitsu (30th Anniversary of Takemitsu's Passing)"
     }
   },
   "1425": {
@@ -656,7 +656,7 @@
     },
     "en": {
       "venue": "Kyoto, Japan — ROHM Theatre Kyoto — South Hall · 17:00",
-      "title": "ROHM Music Festival 2026 — Concert-relais B — Keigo Mukawa — Piano recital"
+      "title": "ROHM Music Festival 2026 — Relay Concert B — Keigo Mukawa Piano Recital"
     }
   },
   "1427": {
@@ -827,6 +827,116 @@
     "en": {
       "venue": "Shimane, Japan — Sanbiru Cultural Center, Plover Hall · 14:00",
       "title": "Keigo Mukawa — Piano recital"
+    }
+  },
+  "1471": {
+    "fr": {
+      "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
+      "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026"
+    },
+    "en": {
+      "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
+      "title": "Keigo Mukawa — Special Concert: Piano Recital 2026"
+    }
+  },
+  "1477": {
+    "fr": {
+      "venue": "Tokyo, Japon — Fuchū no Mori Art Theater — Wien Hall · 14h00",
+      "title": "Keigo Mukawa — Récital de piano 2026"
+    },
+    "en": {
+      "venue": "Tokyo, Japan — Fuchu no Mori Art Theater — Wien Hall · 14:00",
+      "title": "Keigo Mukawa — Piano Recital 2026"
+    }
+  },
+  "1481": {
+    "fr": {
+      "venue": "Fukuoka, Japon — Orinasu Yame (Yame Civic Hall) — Harmony Hall · Ouverture 13h15 · 14h00",
+      "title": "Keigo Mukawa — Récital de piano"
+    },
+    "en": {
+      "venue": "Fukuoka, Japan — Orinasu Yame (Yame Civic Hall) — Harmony Hall · Doors 13:15 · 14:00",
+      "title": "Keigo Mukawa — Piano Recital"
+    }
+  },
+  "1490": {
+    "fr": {
+      "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
+      "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
+    },
+    "en": {
+      "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
+      "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
+    }
+  },
+  "1491": {
+    "fr": {
+      "venue": "Hokkaidō, Japon — Sapporo Concert Hall Kitara · Ouverture 13h00 · 13h30",
+      "title": "Orchestre symphonique de Sapporo — Concert sur invitation 2026 (Tanaka Medical Group)"
+    },
+    "en": {
+      "venue": "Hokkaidō, Japan — Sapporo Concert Hall Kitara · Doors 13:00 · 13:30",
+      "title": "Sapporo Symphony Orchestra — Invitation Concert 2026 (presented by Tanaka Medical Group)"
+    }
+  },
+  "1493": {
+    "fr": {
+      "venue": "Yamagata, Japon — Yamagata Terusa — Terusa Hall · Ouverture 13h30 · 14h00",
+      "title": "Yasunao Ishida & Keigo Mukawa — Récital en duo"
+    },
+    "en": {
+      "venue": "Yamagata, Japan — Yamagata Terusa — Terusa Hall · Doors 13:30 · 14:00",
+      "title": "Yasunao Ishida & Keigo Mukawa — Duo Recital"
+    }
+  },
+  "1494": {
+    "fr": {
+      "venue": "Niigata, Japon — Kashiwazaki Culture Hall Alfore — Grande salle · Ouverture 13h15 · 14h00",
+      "title": "Yasunao Ishida & Keigo Mukawa — Récital en duo"
+    },
+    "en": {
+      "venue": "Niigata, Japan — Kashiwazaki Culture Hall Alfore — Main Hall · Doors 13:15 · 14:00",
+      "title": "Yasunao Ishida & Keigo Mukawa — Duo Recital"
+    }
+  },
+  "1495": {
+    "fr": {
+      "venue": "Tokyo, Japon — Suntory Hall · Ouverture 13h20 · 14h00",
+      "title": "Orchestre philharmonique du Japon — 414e Concert de chefs-d'œuvre"
+    },
+    "en": {
+      "venue": "Tokyo, Japan — Suntory Hall · Doors 13:20 · 14:00",
+      "title": "Japan Philharmonic Orchestra — Masterpiece Concert No. 414"
+    }
+  },
+  "1496": {
+    "fr": {
+      "venue": "Saitama, Japon — Tokorozawa Civic Cultural Centre Muse — Ark Hall · Ouverture 13h15 · 14h00",
+      "title": "Yasunao Ishida × Keigo Mukawa"
+    },
+    "en": {
+      "venue": "Saitama, Japan — Tokorozawa Civic Cultural Centre Muse — Ark Hall · Doors 13:15 · 14:00",
+      "title": "Yasunao Ishida × Keigo Mukawa"
+    }
+  },
+  "1498": {
+    "fr": {
+      "venue": "Shizuoka, Japon — Mishima Civic Cultural Hall — Grande salle · Ouverture 13h30 · 14h00",
+      "title": "Automne à Mishima — Concert Premium 2026"
+    },
+    "en": {
+      "venue": "Shizuoka, Japan — Mishima Civic Cultural Hall — Main Hall · Doors 13:30 · 14:00",
+      "title": "Mishima Autumn — Premium Concert 2026"
+    }
+  },
+  "1499": {
+    "fr": {
+      "venue": "Hyōgo, Japon — Hyogo Performing Arts Center — Grande salle KOBELCO · Ouverture 14h15 · 15h00",
+      "title": "Gala de la Saint-Sylvestre 2026 — produit par Yutaka Sado, directeur artistique"
+    },
+    "en": {
+      "venue": "Hyōgo, Japan — Hyogo Performing Arts Center — KOBELCO Main Hall · Doors 14:15 · 15:00",
+      "title": "New Year's Eve Gala Concert 2026 — Produced by Artistic Director Yutaka Sado"
     }
   }
 }
