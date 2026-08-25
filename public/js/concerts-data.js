@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "25.08.2026",
-        "day": "mar.",
-        "dayNum": "25",
-        "venue": "Matsumoto, Japon — The Harmony Hall · 18h30",
-        "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert de proximité I — Ravel et Takemitsu (30e anniversaire de la disparition de Takemitsu)"
-      },
-      {
         "date": "28.08.2026",
         "day": "ven.",
         "dayNum": "28",
@@ -184,6 +177,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "25.08.2026",
+        "day": "mar.",
+        "dayNum": "25",
+        "venue": "Matsumoto, Japon — The Harmony Hall · 18h30",
+        "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert de proximité I — Ravel et Takemitsu (30e anniversaire de la disparition de Takemitsu)"
+      },
       {
         "date": "23.08.2026",
         "day": "dim.",
@@ -521,15 +521,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 18:00 · 18:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
+        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 14:00 · 14:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 14:00 · 14:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 18:00 · 18:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
       },
       {
         "date": "04.10.2025",
@@ -686,13 +686,6 @@ window.CONCERTS_DATA = {
   },
   "en": {
     "upcoming": [
-      {
-        "date": "25.08.2026",
-        "day": "Tue",
-        "dayNum": "25",
-        "venue": "Matsumoto, Japan — The Harmony Hall · 18:30",
-        "title": "Seiji Ozawa Matsumoto Festival 2026 — Chamber Concert I — Ravel and Takemitsu (30th Anniversary of Takemitsu's Passing)"
-      },
       {
         "date": "28.08.2026",
         "day": "Fri",
@@ -866,6 +859,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "25.08.2026",
+        "day": "Tue",
+        "dayNum": "25",
+        "venue": "Matsumoto, Japan — The Harmony Hall · 18:30",
+        "title": "Seiji Ozawa Matsumoto Festival 2026 — Chamber Concert I — Ravel and Takemitsu (30th Anniversary of Takemitsu's Passing)"
+      },
       {
         "date": "23.08.2026",
         "day": "Sun",
@@ -1203,15 +1203,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 18:00 · 18:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
+        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 14:00 · 14:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 14:00 · 14:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 18:00 · 18:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
       },
       {
         "date": "04.10.2025",
