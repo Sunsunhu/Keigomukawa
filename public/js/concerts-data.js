@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "28.08.2026",
-        "day": "ven.",
-        "dayNum": "28",
-        "venue": "Matsumoto, Japon — The Harmony Hall · 18h30",
-        "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert de proximité II — Debussy et Takemitsu (30e anniversaire de la disparition de Takemitsu)"
-      },
-      {
         "date": "06.09.2026",
         "day": "dim.",
         "dayNum": "06",
@@ -177,6 +170,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "28.08.2026",
+        "day": "ven.",
+        "dayNum": "28",
+        "venue": "Matsumoto, Japon — The Harmony Hall · 18h30",
+        "title": "Seiji Ozawa Matsumoto Festival 2026 — Concert de proximité II — Debussy et Takemitsu (30e anniversaire de la disparition de Takemitsu)"
+      },
       {
         "date": "25.08.2026",
         "day": "mar.",
@@ -687,13 +687,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "28.08.2026",
-        "day": "Fri",
-        "dayNum": "28",
-        "venue": "Matsumoto, Japan — The Harmony Hall · 18:30",
-        "title": "Seiji Ozawa Matsumoto Festival 2026 — Chamber Concert II — Debussy and Takemitsu (30th Anniversary of Takemitsu's Passing)"
-      },
-      {
         "date": "06.09.2026",
         "day": "Sun",
         "dayNum": "06",
@@ -859,6 +852,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "28.08.2026",
+        "day": "Fri",
+        "dayNum": "28",
+        "venue": "Matsumoto, Japan — The Harmony Hall · 18:30",
+        "title": "Seiji Ozawa Matsumoto Festival 2026 — Chamber Concert II — Debussy and Takemitsu (30th Anniversary of Takemitsu's Passing)"
+      },
       {
         "date": "25.08.2026",
         "day": "Tue",
