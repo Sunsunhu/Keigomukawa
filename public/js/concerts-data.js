@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "10.09.2026",
-        "day": "jeu.",
-        "dayNum": "10",
-        "venue": "Marches, Italie — Residart Festival",
-        "title": "Residart Festival 2026 / XXVIe Festival Pergolesi Spontini (10–20 septembre)"
-      },
-      {
         "date": "29.09.2026",
         "day": "mar.",
         "dayNum": "29",
@@ -163,6 +156,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "10.09.2026",
+        "day": "jeu.",
+        "dayNum": "10",
+        "venue": "Marches, Italie — Residart Festival",
+        "title": "Residart Festival 2026 / XXVIe Festival Pergolesi Spontini (10–20 septembre)"
+      },
       {
         "date": "06.09.2026",
         "day": "dim.",
@@ -687,13 +687,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "10.09.2026",
-        "day": "Thu",
-        "dayNum": "10",
-        "venue": "Marche, Italy — Residart Festival",
-        "title": "Residart Festival 2026 / 26th Pergolesi Spontini Festival (September 10–20)"
-      },
-      {
         "date": "29.09.2026",
         "day": "Tue",
         "dayNum": "29",
@@ -845,6 +838,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "10.09.2026",
+        "day": "Thu",
+        "dayNum": "10",
+        "venue": "Marche, Italy — Residart Festival",
+        "title": "Residart Festival 2026 / 26th Pergolesi Spontini Festival (September 10–20)"
+      },
       {
         "date": "06.09.2026",
         "day": "Sun",
