@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "29.09.2026",
-        "day": "mar.",
-        "dayNum": "29",
-        "venue": "Hokkaidō, Japon — Sapporo Concert Hall Kitara · Ouverture 13h00 · 13h30",
-        "title": "Orchestre symphonique de Sapporo — Concert sur invitation 2026 (Tanaka Medical Group)"
-      },
-      {
         "date": "03.10.2026",
         "day": "sam.",
         "dayNum": "03",
@@ -156,6 +149,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "29.09.2026",
+        "day": "mar.",
+        "dayNum": "29",
+        "venue": "Hokkaidō, Japon — Sapporo Concert Hall Kitara · Ouverture 13h00 · 13h30",
+        "title": "Orchestre symphonique de Sapporo — Concert sur invitation 2026 (Tanaka Medical Group)"
+      },
       {
         "date": "10.09.2026",
         "day": "jeu.",
@@ -521,15 +521,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 18:00 · 18:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
+        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 14:00 · 14:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 14:00 · 14:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 18:00 · 18:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
       },
       {
         "date": "04.10.2025",
@@ -687,13 +687,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "29.09.2026",
-        "day": "Tue",
-        "dayNum": "29",
-        "venue": "Hokkaidō, Japan — Sapporo Concert Hall Kitara · Doors 13:00 · 13:30",
-        "title": "Sapporo Symphony Orchestra — Invitation Concert 2026 (presented by Tanaka Medical Group)"
-      },
-      {
         "date": "03.10.2026",
         "day": "Sat",
         "dayNum": "03",
@@ -838,6 +831,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "29.09.2026",
+        "day": "Tue",
+        "dayNum": "29",
+        "venue": "Hokkaidō, Japan — Sapporo Concert Hall Kitara · Doors 13:00 · 13:30",
+        "title": "Sapporo Symphony Orchestra — Invitation Concert 2026 (presented by Tanaka Medical Group)"
+      },
       {
         "date": "10.09.2026",
         "day": "Thu",
@@ -1203,15 +1203,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 18:00 · 18:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
+        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 14:00 · 14:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 14:00 · 14:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 18:00 · 18:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
       },
       {
         "date": "04.10.2025",
