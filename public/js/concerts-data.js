@@ -119,6 +119,13 @@ window.CONCERTS_DATA = {
         "title": "Keigo Mukawa — Récital de piano"
       },
       {
+        "date": "13.12.2026",
+        "day": "dim.",
+        "dayNum": "13",
+        "venue": "Ehime, Japon — 愛媛県県民文化会館 サブホール · Ouverture 13h30 · 14h00",
+        "title": "愛媛県県民文化会館開館40周年 えひめプライムコンサートVol.5 務川慧悟 ピアノ・リサイタル"
+      },
+      {
         "date": "16.12.2026",
         "day": "mer.",
         "dayNum": "16",
@@ -146,6 +153,62 @@ window.CONCERTS_DATA = {
         "dayNum": "16",
         "venue": "Shimane, Japon — Sanbiru Cultural Center, Plover Hall · 14:00",
         "title": "Keigo Mukawa — Récital de piano"
+      },
+      {
+        "date": "17.01.2027",
+        "day": "dim.",
+        "dayNum": "17",
+        "venue": "Saitama, Japon — 川口総合文化センター リリア・フカガワみらいホール · 15h00",
+        "title": "川口リリアオープン記念公演 ニューイヤーコンサート2027"
+      },
+      {
+        "date": "23.01.2027",
+        "day": "sam.",
+        "dayNum": "23",
+        "venue": "Yamagata, Japon — 山形テルサホール · 19h00",
+        "title": "山形交響楽団 第338回定期演奏会"
+      },
+      {
+        "date": "24.01.2027",
+        "day": "dim.",
+        "dayNum": "24",
+        "venue": "Yamagata, Japon — 山形テルサホール · 15h00",
+        "title": "山形交響楽団 第338回定期演奏会"
+      },
+      {
+        "date": "20.02.2027",
+        "day": "sam.",
+        "dayNum": "20",
+        "venue": "Shizuoka, Japon — 静岡市清水文化会館マリナート 大ホール · Ouverture 12h45 · 13h30",
+        "title": "第140回定期演奏会＜静岡公演・浜松公演＞ラフマニノフの超絶と叙情、ドヴォルザークの光と生命力。"
+      },
+      {
+        "date": "21.02.2027",
+        "day": "dim.",
+        "dayNum": "21",
+        "venue": "Shizuoka, Japon — アクトシティ浜松 大ホール · Ouverture 12h45 · 13h30",
+        "title": "第140回定期演奏会＜静岡公演・浜松公演＞ラフマニノフの超絶と叙情、ドヴォルザークの光と生命力。"
+      },
+      {
+        "date": "13.03.2027",
+        "day": "sam.",
+        "dayNum": "13",
+        "venue": "Chiba, Japon — 市川市文化会館 大ホール · Ouverture 16h00 · 17h00",
+        "title": "NHK交響楽団 in ICHIKAWA市川市文化会館 大ホール"
+      },
+      {
+        "date": "14.03.2027",
+        "day": "dim.",
+        "dayNum": "14",
+        "venue": "Osaka, Japon — ザ・シンフォニーホール · Ouverture 15h00 · 16h00",
+        "title": "The Symphony Hall 開館45周年記念 NHK交響楽団 大阪特別公演"
+      },
+      {
+        "date": "15.03.2027",
+        "day": "lun.",
+        "dayNum": "15",
+        "venue": "Kagawa, Japon — シアターマド 大ホール（丸亀市民会館） · Ouverture 17h45 · 18h30",
+        "title": "THEATRE MAdo 開館記念事業 NHK交響楽団 丸亀特別公演"
       }
     ],
     "past": [
@@ -801,6 +864,13 @@ window.CONCERTS_DATA = {
         "title": "Keigo Mukawa — Piano recital"
       },
       {
+        "date": "13.12.2026",
+        "day": "Sun",
+        "dayNum": "13",
+        "venue": "Ehime, Japan — 愛媛県県民文化会館 サブホール · Doors 13h30 · 14h00",
+        "title": "愛媛県県民文化会館開館40周年 えひめプライムコンサートVol.5 務川慧悟 ピアノ・リサイタル"
+      },
+      {
         "date": "16.12.2026",
         "day": "Wed",
         "dayNum": "16",
@@ -828,6 +898,62 @@ window.CONCERTS_DATA = {
         "dayNum": "16",
         "venue": "Shimane, Japan — Sanbiru Cultural Center, Plover Hall · 14:00",
         "title": "Keigo Mukawa — Piano recital"
+      },
+      {
+        "date": "17.01.2027",
+        "day": "Sun",
+        "dayNum": "17",
+        "venue": "Saitama, Japan — 川口総合文化センター リリア・フカガワみらいホール · 15h00",
+        "title": "川口リリアオープン記念公演 ニューイヤーコンサート2027"
+      },
+      {
+        "date": "23.01.2027",
+        "day": "Sat",
+        "dayNum": "23",
+        "venue": "Yamagata, Japan — 山形テルサホール · 19h00",
+        "title": "山形交響楽団 第338回定期演奏会"
+      },
+      {
+        "date": "24.01.2027",
+        "day": "Sun",
+        "dayNum": "24",
+        "venue": "Yamagata, Japan — 山形テルサホール · 15h00",
+        "title": "山形交響楽団 第338回定期演奏会"
+      },
+      {
+        "date": "20.02.2027",
+        "day": "Sat",
+        "dayNum": "20",
+        "venue": "Shizuoka, Japan — 静岡市清水文化会館マリナート 大ホール · Doors 12h45 · 13h30",
+        "title": "第140回定期演奏会＜静岡公演・浜松公演＞ラフマニノフの超絶と叙情、ドヴォルザークの光と生命力。"
+      },
+      {
+        "date": "21.02.2027",
+        "day": "Sun",
+        "dayNum": "21",
+        "venue": "Shizuoka, Japan — アクトシティ浜松 大ホール · Doors 12h45 · 13h30",
+        "title": "第140回定期演奏会＜静岡公演・浜松公演＞ラフマニノフの超絶と叙情、ドヴォルザークの光と生命力。"
+      },
+      {
+        "date": "13.03.2027",
+        "day": "Sat",
+        "dayNum": "13",
+        "venue": "Chiba, Japan — 市川市文化会館 大ホール · Doors 16h00 · 17h00",
+        "title": "NHK交響楽団 in ICHIKAWA市川市文化会館 大ホール"
+      },
+      {
+        "date": "14.03.2027",
+        "day": "Sun",
+        "dayNum": "14",
+        "venue": "Osaka, Japan — ザ・シンフォニーホール · Doors 15h00 · 16h00",
+        "title": "The Symphony Hall 開館45周年記念 NHK交響楽団 大阪特別公演"
+      },
+      {
+        "date": "15.03.2027",
+        "day": "Mon",
+        "dayNum": "15",
+        "venue": "Kagawa, Japan — シアターマド 大ホール（丸亀市民会館） · Doors 17h45 · 18h30",
+        "title": "THEATRE MAdo 開館記念事業 NHK交響楽団 丸亀特別公演"
       }
     ],
     "past": [
