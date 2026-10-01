@@ -65,15 +65,15 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
-        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
+        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026"
       },
       {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
-        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026"
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
+        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
       },
       {
         "date": "18.11.2026",
@@ -209,6 +209,27 @@ window.CONCERTS_DATA = {
         "dayNum": "15",
         "venue": "Kagawa, Japon — シアターマド 大ホール（丸亀市民会館） · Ouverture 17h45 · 18h30",
         "title": "THEATRE MAdo 開館記念事業 NHK交響楽団 丸亀特別公演"
+      },
+      {
+        "date": "21.04.2027",
+        "day": "mer.",
+        "dayNum": "21",
+        "venue": "Tokyo, Japon — 日本製鉄紀尾井ホール · Ouverture 18h15 · 19h00",
+        "title": "上野耕平 × 務川慧悟 デュオ・リサイタル"
+      },
+      {
+        "date": "24.04.2027",
+        "day": "sam.",
+        "dayNum": "24",
+        "venue": "Shizuoka, Japon — 富士市文化会館ロゼシアター中ホール · Ouverture 14h15 · 15h00",
+        "title": "上野耕平 × 務川慧悟 デュオ・リサイタル"
+      },
+      {
+        "date": "25.04.2027",
+        "day": "dim.",
+        "dayNum": "25",
+        "venue": "Osaka, Japon — 住友生命いずみホール · Ouverture 13h15 · 14h00",
+        "title": "上野耕平 × 務川慧悟 デュオ・リサイタル"
       }
     ],
     "past": [
@@ -810,15 +831,15 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
-        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
+        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026"
       },
       {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
-        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026"
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
+        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
       },
       {
         "date": "18.11.2026",
@@ -954,6 +975,27 @@ window.CONCERTS_DATA = {
         "dayNum": "15",
         "venue": "Kagawa, Japan — シアターマド 大ホール（丸亀市民会館） · Doors 17h45 · 18h30",
         "title": "THEATRE MAdo 開館記念事業 NHK交響楽団 丸亀特別公演"
+      },
+      {
+        "date": "21.04.2027",
+        "day": "Wed",
+        "dayNum": "21",
+        "venue": "Tokyo, Japan — 日本製鉄紀尾井ホール · Doors 18h15 · 19h00",
+        "title": "上野耕平 × 務川慧悟 デュオ・リサイタル"
+      },
+      {
+        "date": "24.04.2027",
+        "day": "Sat",
+        "dayNum": "24",
+        "venue": "Shizuoka, Japan — 富士市文化会館ロゼシアター中ホール · Doors 14h15 · 15h00",
+        "title": "上野耕平 × 務川慧悟 デュオ・リサイタル"
+      },
+      {
+        "date": "25.04.2027",
+        "day": "Sun",
+        "dayNum": "25",
+        "venue": "Osaka, Japan — 住友生命いずみホール · Doors 13h15 · 14h00",
+        "title": "上野耕平 × 務川慧悟 デュオ・リサイタル"
       }
     ],
     "past": [
