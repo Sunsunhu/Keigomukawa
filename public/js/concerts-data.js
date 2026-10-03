@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "03.10.2026",
-        "day": "sam.",
-        "dayNum": "03",
-        "venue": "Miyagi, Japon — Taihaku Hall Natori (Natori Cultural Hall), salle moyenne · Ouverture 13:30 · 14:00",
-        "title": "Keigo Mukawa — Récital de piano 2026"
-      },
-      {
         "date": "04.10.2026",
         "day": "dim.",
         "dayNum": "04",
@@ -65,15 +58,15 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
-        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026"
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
+        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
       },
       {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
-        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
+        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026"
       },
       {
         "date": "18.11.2026",
@@ -233,6 +226,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "03.10.2026",
+        "day": "sam.",
+        "dayNum": "03",
+        "venue": "Miyagi, Japon — Taihaku Hall Natori (Natori Cultural Hall), salle moyenne · Ouverture 13:30 · 14:00",
+        "title": "Keigo Mukawa — Récital de piano 2026"
+      },
       {
         "date": "29.09.2026",
         "day": "mar.",
@@ -771,13 +771,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "03.10.2026",
-        "day": "Sat",
-        "dayNum": "03",
-        "venue": "Miyagi, Japan — Taihaku Hall Natori (Natori Cultural Hall), medium hall · Doors 13:30 · 14:00",
-        "title": "Keigo Mukawa — Piano recital 2026"
-      },
-      {
         "date": "04.10.2026",
         "day": "Sun",
         "dayNum": "04",
@@ -831,15 +824,15 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
-        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026"
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
+        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
       },
       {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
-        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
+        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026"
       },
       {
         "date": "18.11.2026",
@@ -999,6 +992,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "03.10.2026",
+        "day": "Sat",
+        "dayNum": "03",
+        "venue": "Miyagi, Japan — Taihaku Hall Natori (Natori Cultural Hall), medium hall · Doors 13:30 · 14:00",
+        "title": "Keigo Mukawa — Piano recital 2026"
+      },
       {
         "date": "29.09.2026",
         "day": "Tue",
