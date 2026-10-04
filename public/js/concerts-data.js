@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "04.10.2026",
-        "day": "dim.",
-        "dayNum": "04",
-        "venue": "Yamagata, Japon — Yamagata Terusa — Terusa Hall · Ouverture 13h30 · 14h00",
-        "title": "Yasunao Ishida & Keigo Mukawa — Récital en duo"
-      },
-      {
         "date": "17.10.2026",
         "day": "sam.",
         "dayNum": "17",
@@ -226,6 +219,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "04.10.2026",
+        "day": "dim.",
+        "dayNum": "04",
+        "venue": "Yamagata, Japon — Yamagata Terusa — Terusa Hall · Ouverture 13h30 · 14h00",
+        "title": "Yasunao Ishida & Keigo Mukawa — Récital en duo"
+      },
       {
         "date": "03.10.2026",
         "day": "sam.",
@@ -605,15 +605,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 14:00 · 14:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 18:00 · 18:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
       },
       {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 18:00 · 18:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
+        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 14:00 · 14:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "04.10.2025",
@@ -770,13 +770,6 @@ window.CONCERTS_DATA = {
   },
   "en": {
     "upcoming": [
-      {
-        "date": "04.10.2026",
-        "day": "Sun",
-        "dayNum": "04",
-        "venue": "Yamagata, Japan — Yamagata Terusa — Terusa Hall · Doors 13:30 · 14:00",
-        "title": "Yasunao Ishida & Keigo Mukawa — Duo Recital"
-      },
       {
         "date": "17.10.2026",
         "day": "Sat",
@@ -992,6 +985,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "04.10.2026",
+        "day": "Sun",
+        "dayNum": "04",
+        "venue": "Yamagata, Japan — Yamagata Terusa — Terusa Hall · Doors 13:30 · 14:00",
+        "title": "Yasunao Ishida & Keigo Mukawa — Duo Recital"
+      },
       {
         "date": "03.10.2026",
         "day": "Sat",
@@ -1371,15 +1371,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 14:00 · 14:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 18:00 · 18:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
       },
       {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 18:00 · 18:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
+        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 14:00 · 14:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "04.10.2025",
