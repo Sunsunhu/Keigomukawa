@@ -26,6 +26,13 @@ window.CONCERTS_DATA = {
         "title": "Automne à Mishima — Concert Premium 2026"
       },
       {
+        "date": "01.11.2026",
+        "day": "dim.",
+        "dayNum": "01",
+        "venue": "Tokyo, Japon — 東京藝術大学 上野キャンパス内第６ホール · Ouverture 16h45 · 17h20",
+        "title": "ＮＨＫ ＦＭ「鍵盤のつばさ」 公開収録ｉｎ東京藝大"
+      },
+      {
         "date": "03.11.2026",
         "day": "mar.",
         "dayNum": "03",
@@ -59,7 +66,8 @@ window.CONCERTS_DATA = {
         "day": "dim.",
         "dayNum": "15",
         "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
-        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026"
+        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026",
+        "soldOut": true
       },
       {
         "date": "18.11.2026",
@@ -224,7 +232,8 @@ window.CONCERTS_DATA = {
         "day": "dim.",
         "dayNum": "04",
         "venue": "Yamagata, Japon — Yamagata Terusa — Terusa Hall · Ouverture 13h30 · 14h00",
-        "title": "Yasunao Ishida & Keigo Mukawa — Récital en duo"
+        "title": "Yasunao Ishida & Keigo Mukawa — Récital en duo",
+        "soldOut": true
       },
       {
         "date": "03.10.2026",
@@ -792,6 +801,13 @@ window.CONCERTS_DATA = {
         "title": "Mishima Autumn — Premium Concert 2026"
       },
       {
+        "date": "01.11.2026",
+        "day": "Sun",
+        "dayNum": "01",
+        "venue": "Tokyo, Japan — 東京藝術大学 上野キャンパス内第６ホール · Doors 16h45 · 17h20",
+        "title": "ＮＨＫ ＦＭ「鍵盤のつばさ」 公開収録ｉｎ東京藝大"
+      },
+      {
         "date": "03.11.2026",
         "day": "Tue",
         "dayNum": "03",
@@ -825,7 +841,8 @@ window.CONCERTS_DATA = {
         "day": "Sun",
         "dayNum": "15",
         "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
-        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026"
+        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026",
+        "soldOut": true
       },
       {
         "date": "18.11.2026",
@@ -990,7 +1007,8 @@ window.CONCERTS_DATA = {
         "day": "Sun",
         "dayNum": "04",
         "venue": "Yamagata, Japan — Yamagata Terusa — Terusa Hall · Doors 13:30 · 14:00",
-        "title": "Yasunao Ishida & Keigo Mukawa — Duo Recital"
+        "title": "Yasunao Ishida & Keigo Mukawa — Duo Recital",
+        "soldOut": true
       },
       {
         "date": "03.10.2026",
