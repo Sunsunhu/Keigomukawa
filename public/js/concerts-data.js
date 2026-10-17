@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "17.10.2026",
-        "day": "sam.",
-        "dayNum": "17",
-        "venue": "Niigata, Japon — Kashiwazaki Culture Hall Alfore — Grande salle · Ouverture 13h15 · 14h00",
-        "title": "Yasunao Ishida & Keigo Mukawa — Récital en duo"
-      },
-      {
         "date": "24.10.2026",
         "day": "sam.",
         "dayNum": "24",
@@ -58,16 +51,16 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
-        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
+        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026",
+        "soldOut": true
       },
       {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
-        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026",
-        "soldOut": true
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
+        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
       },
       {
         "date": "18.11.2026",
@@ -227,6 +220,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "17.10.2026",
+        "day": "sam.",
+        "dayNum": "17",
+        "venue": "Niigata, Japon — Kashiwazaki Culture Hall Alfore — Grande salle · Ouverture 13h15 · 14h00",
+        "title": "Yasunao Ishida & Keigo Mukawa — Récital en duo"
+      },
       {
         "date": "04.10.2026",
         "day": "dim.",
@@ -780,13 +780,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "17.10.2026",
-        "day": "Sat",
-        "dayNum": "17",
-        "venue": "Niigata, Japan — Kashiwazaki Culture Hall Alfore — Main Hall · Doors 13:15 · 14:00",
-        "title": "Yasunao Ishida & Keigo Mukawa — Duo Recital"
-      },
-      {
         "date": "24.10.2026",
         "day": "Sat",
         "dayNum": "24",
@@ -833,16 +826,16 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
-        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
+        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026",
+        "soldOut": true
       },
       {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
-        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026",
-        "soldOut": true
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
+        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
       },
       {
         "date": "18.11.2026",
@@ -1002,6 +995,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "17.10.2026",
+        "day": "Sat",
+        "dayNum": "17",
+        "venue": "Niigata, Japan — Kashiwazaki Culture Hall Alfore — Main Hall · Doors 13:15 · 14:00",
+        "title": "Yasunao Ishida & Keigo Mukawa — Duo Recital"
+      },
       {
         "date": "04.10.2026",
         "day": "Sun",
