@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "24.10.2026",
-        "day": "sam.",
-        "dayNum": "24",
-        "venue": "Tokyo, Japon — Suntory Hall · Ouverture 13h20 · 14h00",
-        "title": "Orchestre philharmonique du Japon — 414e Concert de chefs-d'œuvre"
-      },
-      {
         "date": "31.10.2026",
         "day": "sam.",
         "dayNum": "31",
@@ -220,6 +213,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "24.10.2026",
+        "day": "sam.",
+        "dayNum": "24",
+        "venue": "Tokyo, Japon — Suntory Hall · Ouverture 13h20 · 14h00",
+        "title": "Orchestre philharmonique du Japon — 414e Concert de chefs-d'œuvre"
+      },
       {
         "date": "17.10.2026",
         "day": "sam.",
@@ -614,15 +614,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 18:00 · 18:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
+        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 14:00 · 14:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 14:00 · 14:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 18:00 · 18:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
       },
       {
         "date": "04.10.2025",
@@ -779,13 +779,6 @@ window.CONCERTS_DATA = {
   },
   "en": {
     "upcoming": [
-      {
-        "date": "24.10.2026",
-        "day": "Sat",
-        "dayNum": "24",
-        "venue": "Tokyo, Japan — Suntory Hall · Doors 13:20 · 14:00",
-        "title": "Japan Philharmonic Orchestra — Masterpiece Concert No. 414"
-      },
       {
         "date": "31.10.2026",
         "day": "Sat",
@@ -995,6 +988,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "24.10.2026",
+        "day": "Sat",
+        "dayNum": "24",
+        "venue": "Tokyo, Japan — Suntory Hall · Doors 13:20 · 14:00",
+        "title": "Japan Philharmonic Orchestra — Masterpiece Concert No. 414"
+      },
       {
         "date": "17.10.2026",
         "day": "Sat",
@@ -1389,15 +1389,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 18:00 · 18:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
+        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 14:00 · 14:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 14:00 · 14:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 18:00 · 18:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
       },
       {
         "date": "04.10.2025",
