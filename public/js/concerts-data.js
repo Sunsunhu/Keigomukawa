@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "31.10.2026",
-        "day": "sam.",
-        "dayNum": "31",
-        "venue": "Shizuoka, Japon — Mishima Civic Cultural Hall — Grande salle · Ouverture 13h30 · 14h00",
-        "title": "Automne à Mishima — Concert Premium 2026"
-      },
-      {
         "date": "01.11.2026",
         "day": "dim.",
         "dayNum": "01",
@@ -213,6 +206,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "31.10.2026",
+        "day": "sam.",
+        "dayNum": "31",
+        "venue": "Shizuoka, Japon — Mishima Civic Cultural Hall — Grande salle · Ouverture 13h30 · 14h00",
+        "title": "Automne à Mishima — Concert Premium 2026"
+      },
       {
         "date": "24.10.2026",
         "day": "sam.",
@@ -780,13 +780,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "31.10.2026",
-        "day": "Sat",
-        "dayNum": "31",
-        "venue": "Shizuoka, Japan — Mishima Civic Cultural Hall — Main Hall · Doors 13:30 · 14:00",
-        "title": "Mishima Autumn — Premium Concert 2026"
-      },
-      {
         "date": "01.11.2026",
         "day": "Sun",
         "dayNum": "01",
@@ -988,6 +981,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "31.10.2026",
+        "day": "Sat",
+        "dayNum": "31",
+        "venue": "Shizuoka, Japan — Mishima Civic Cultural Hall — Main Hall · Doors 13:30 · 14:00",
+        "title": "Mishima Autumn — Premium Concert 2026"
+      },
       {
         "date": "24.10.2026",
         "day": "Sat",
