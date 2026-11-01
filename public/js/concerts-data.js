@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "01.11.2026",
-        "day": "dim.",
-        "dayNum": "01",
-        "venue": "Tokyo, Japon — 東京藝術大学 上野キャンパス内第６ホール · Ouverture 16h45 · 17h20",
-        "title": "ＮＨＫ ＦＭ「鍵盤のつばさ」 公開収録ｉｎ東京藝大"
-      },
-      {
         "date": "03.11.2026",
         "day": "mar.",
         "dayNum": "03",
@@ -37,16 +30,16 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
-        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026",
-        "soldOut": true
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
+        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
       },
       {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
-        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
+        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026",
+        "soldOut": true
       },
       {
         "date": "18.11.2026",
@@ -206,6 +199,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "01.11.2026",
+        "day": "dim.",
+        "dayNum": "01",
+        "venue": "Tokyo, Japon — 東京藝術大学 上野キャンパス内第６ホール · Ouverture 16h45 · 17h20",
+        "title": "ＮＨＫ ＦＭ「鍵盤のつばさ」 公開収録ｉｎ東京藝大"
+      },
       {
         "date": "31.10.2026",
         "day": "sam.",
@@ -780,13 +780,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "01.11.2026",
-        "day": "Sun",
-        "dayNum": "01",
-        "venue": "Tokyo, Japan — 東京藝術大学 上野キャンパス内第６ホール · Doors 16h45 · 17h20",
-        "title": "ＮＨＫ ＦＭ「鍵盤のつばさ」 公開収録ｉｎ東京藝大"
-      },
-      {
         "date": "03.11.2026",
         "day": "Tue",
         "dayNum": "03",
@@ -812,16 +805,16 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
-        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026",
-        "soldOut": true
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
+        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
       },
       {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
-        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
+        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026",
+        "soldOut": true
       },
       {
         "date": "18.11.2026",
@@ -981,6 +974,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "01.11.2026",
+        "day": "Sun",
+        "dayNum": "01",
+        "venue": "Tokyo, Japan — 東京藝術大学 上野キャンパス内第６ホール · Doors 16h45 · 17h20",
+        "title": "ＮＨＫ ＦＭ「鍵盤のつばさ」 公開収録ｉｎ東京藝大"
+      },
       {
         "date": "31.10.2026",
         "day": "Sat",
