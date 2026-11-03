@@ -5,14 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "03.11.2026",
-        "day": "mar.",
-        "dayNum": "03",
-        "venue": "Saitama, Japon — Tokorozawa Civic Cultural Centre Muse — Ark Hall · Ouverture 13h15 · 14h00",
-        "title": "Yasunao Ishida × Keigo Mukawa",
-        "soldOut": true
-      },
-      {
         "date": "06.11.2026",
         "day": "ven.",
         "dayNum": "06",
@@ -199,6 +191,14 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "03.11.2026",
+        "day": "mar.",
+        "dayNum": "03",
+        "venue": "Saitama, Japon — Tokorozawa Civic Cultural Centre Muse — Ark Hall · Ouverture 13h15 · 14h00",
+        "title": "Yasunao Ishida × Keigo Mukawa",
+        "soldOut": true
+      },
       {
         "date": "01.11.2026",
         "day": "dim.",
@@ -780,14 +780,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "03.11.2026",
-        "day": "Tue",
-        "dayNum": "03",
-        "venue": "Saitama, Japan — Tokorozawa Civic Cultural Centre Muse — Ark Hall · Doors 13:15 · 14:00",
-        "title": "Yasunao Ishida × Keigo Mukawa",
-        "soldOut": true
-      },
-      {
         "date": "06.11.2026",
         "day": "Fri",
         "dayNum": "06",
@@ -974,6 +966,14 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "03.11.2026",
+        "day": "Tue",
+        "dayNum": "03",
+        "venue": "Saitama, Japan — Tokorozawa Civic Cultural Centre Muse — Ark Hall · Doors 13:15 · 14:00",
+        "title": "Yasunao Ishida × Keigo Mukawa",
+        "soldOut": true
+      },
       {
         "date": "01.11.2026",
         "day": "Sun",
