@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "06.11.2026",
-        "day": "ven.",
-        "dayNum": "06",
-        "venue": "Tochigi, Japon — Tochigi Prefectural Culture Center · Ouverture 14:30 · 15:00",
-        "title": "Keigo Mukawa — Récital de piano 2026"
-      },
-      {
         "date": "13.11.2026",
         "day": "ven.",
         "dayNum": "13",
@@ -22,16 +15,16 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
-        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
+        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026",
+        "soldOut": true
       },
       {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
-        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026",
-        "soldOut": true
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
+        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
       },
       {
         "date": "18.11.2026",
@@ -191,6 +184,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "06.11.2026",
+        "day": "ven.",
+        "dayNum": "06",
+        "venue": "Tochigi, Japon — Tochigi Prefectural Culture Center · Ouverture 14:30 · 15:00",
+        "title": "Keigo Mukawa — Récital de piano 2026"
+      },
       {
         "date": "03.11.2026",
         "day": "mar.",
@@ -614,15 +614,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 14:00 · 14:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 18:00 · 18:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
       },
       {
         "date": "05.10.2025",
         "day": "dim.",
         "dayNum": "05",
-        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 18:00 · 18:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
+        "venue": "Kanagawa, Japon — Yokohama Minato Mirai Hall — Grande salle · Ouverture 14:00 · 14:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "04.10.2025",
@@ -780,13 +780,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "06.11.2026",
-        "day": "Fri",
-        "dayNum": "06",
-        "venue": "Tochigi, Japan — Tochigi Prefectural Culture Center · Doors 14:30 · 15:00",
-        "title": "Keigo Mukawa — Piano recital 2026"
-      },
-      {
         "date": "13.11.2026",
         "day": "Fri",
         "dayNum": "13",
@@ -797,16 +790,16 @@ window.CONCERTS_DATA = {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
-        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
+        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026",
+        "soldOut": true
       },
       {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
-        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026",
-        "soldOut": true
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
+        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
       },
       {
         "date": "18.11.2026",
@@ -966,6 +959,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "06.11.2026",
+        "day": "Fri",
+        "dayNum": "06",
+        "venue": "Tochigi, Japan — Tochigi Prefectural Culture Center · Doors 14:30 · 15:00",
+        "title": "Keigo Mukawa — Piano recital 2026"
+      },
       {
         "date": "03.11.2026",
         "day": "Tue",
@@ -1389,15 +1389,15 @@ window.CONCERTS_DATA = {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 14:00 · 14:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
+        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 18:00 · 18:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
       },
       {
         "date": "05.10.2025",
         "day": "Sun",
         "dayNum": "05",
-        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 18:00 · 18:40",
-        "title": "STAND UP! CLASSIC 2025 in Yokohama — Gershwin meets Ravel"
+        "venue": "Kanagawa, Japan — Yokohama Minato Mirai Hall — Main Hall · Doors 14:00 · 14:40",
+        "title": "STAND UP! CLASSIC 2025 in Yokohama — Keigo Mukawa ALL CHOPIN"
       },
       {
         "date": "04.10.2025",
