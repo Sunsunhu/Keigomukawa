@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "13.11.2026",
-        "day": "ven.",
-        "dayNum": "13",
-        "venue": "Tokyo, Japon — Tokyo Opera City Concert Hall · Ouverture 18:15 · 19:00",
-        "title": "Keigo Mukawa — Récital de piano 2026"
-      },
-      {
         "date": "15.11.2026",
         "day": "dim.",
         "dayNum": "15",
@@ -184,6 +177,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "13.11.2026",
+        "day": "ven.",
+        "dayNum": "13",
+        "venue": "Tokyo, Japon — Tokyo Opera City Concert Hall · Ouverture 18:15 · 19:00",
+        "title": "Keigo Mukawa — Récital de piano 2026"
+      },
       {
         "date": "06.11.2026",
         "day": "ven.",
@@ -780,13 +780,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "13.11.2026",
-        "day": "Fri",
-        "dayNum": "13",
-        "venue": "Tokyo, Japan — Tokyo Opera City Concert Hall · Doors 18:15 · 19:00",
-        "title": "Keigo Mukawa — Piano recital 2026"
-      },
-      {
         "date": "15.11.2026",
         "day": "Sun",
         "dayNum": "15",
@@ -959,6 +952,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "13.11.2026",
+        "day": "Fri",
+        "dayNum": "13",
+        "venue": "Tokyo, Japan — Tokyo Opera City Concert Hall · Doors 18:15 · 19:00",
+        "title": "Keigo Mukawa — Piano recital 2026"
+      },
       {
         "date": "06.11.2026",
         "day": "Fri",
