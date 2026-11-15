@@ -5,21 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "15.11.2026",
-        "day": "dim.",
-        "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
-        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026",
-        "soldOut": true
-      },
-      {
-        "date": "15.11.2026",
-        "day": "dim.",
-        "dayNum": "15",
-        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
-        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
-      },
-      {
         "date": "18.11.2026",
         "day": "mer.",
         "dayNum": "18",
@@ -177,6 +162,21 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "15.11.2026",
+        "day": "dim.",
+        "dayNum": "15",
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 12h30 · 13h00",
+        "title": "Keigo Mukawa — Concert spécial : 60 minutes pour ceux qui étudient le piano (exclusivité Nagoya)"
+      },
+      {
+        "date": "15.11.2026",
+        "day": "dim.",
+        "dayNum": "15",
+        "venue": "Aichi, Japon — Shirakawa Hall · Ouverture 15h15 · 16h00",
+        "title": "Keigo Mukawa — Concert spécial : Récital de piano 2026",
+        "soldOut": true
+      },
       {
         "date": "13.11.2026",
         "day": "ven.",
@@ -780,21 +780,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "15.11.2026",
-        "day": "Sun",
-        "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
-        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026",
-        "soldOut": true
-      },
-      {
-        "date": "15.11.2026",
-        "day": "Sun",
-        "dayNum": "15",
-        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
-        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
-      },
-      {
         "date": "18.11.2026",
         "day": "Wed",
         "dayNum": "18",
@@ -952,6 +937,21 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "15.11.2026",
+        "day": "Sun",
+        "dayNum": "15",
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 12:30 · 13:00",
+        "title": "Keigo Mukawa — Special Concert: 60 Minutes for Piano Learners (Nagoya Exclusive)"
+      },
+      {
+        "date": "15.11.2026",
+        "day": "Sun",
+        "dayNum": "15",
+        "venue": "Aichi, Japan — Shirakawa Hall · Doors 15:15 · 16:00",
+        "title": "Keigo Mukawa — Special Concert: Piano Recital 2026",
+        "soldOut": true
+      },
       {
         "date": "13.11.2026",
         "day": "Fri",
