@@ -57,6 +57,7 @@ window.SITE_DATA = {
       { date: '2017', city: 'Paris, France', venue: 'CHANEL Pygmalion Days', title: 'Cycle de 6 récitals — Œuvre complète pour piano solo de Ravel' }
     ],
     albums: [
+      { title: 'LIVE - Keigo Mukawa — Piano moderne + pianoforte', date: 'NOVA Record · 4 novembre 2026', featured: true },
       { title: 'Ravel — Œuvres complètes pour piano solo', date: '2022 / rééd. Etcetera 2024', featured: true },
       { title: 'Two Pianos 2', date: '2023' },
       { title: 'Two Pianos', date: '2020' },
@@ -141,6 +142,7 @@ window.SITE_DATA = {
       { date: '2017', city: 'Paris, France', venue: 'CHANEL Pygmalion Days', title: '6 recitals — Ravel complete solo piano works' }
     ],
     albums: [
+      { title: 'LIVE - Keigo Mukawa — Modern Piano + Fortepiano', date: 'NOVA Record · 4 November 2026', featured: true },
       { title: 'Ravel — Complete Works for Solo Piano', date: '2022 / Etcetera reissue 2024', featured: true },
       { title: 'Two Pianos 2', date: '2023' },
       { title: 'Two Pianos', date: '2020' },

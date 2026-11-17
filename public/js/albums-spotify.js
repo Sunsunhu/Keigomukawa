@@ -1,5 +1,6 @@
 /** Spotify URLs keyed by cover filename (discography page) */
 window.ALBUM_SPOTIFY = {
+  'live-modern-pianoforte.jpg': 'https://orcd.co/keigomukawa_live',
   'ravel-complete-nova.jpg': 'https://open.spotify.com/intl-fr/album/5htAH9XLRJWkEG7DTtFoap',
   'two-pianos-2.jpg': 'https://open.spotify.com/album/4HLbVKaMnS7HmHzzALpc3V',
   'chansons-hiroshima.jpg': 'https://open.spotify.com/album/4uw4zTSYFQcMONu3ew8eZR',
