@@ -46,7 +46,8 @@ window.CONCERTS_DATA = {
         "day": "sam.",
         "dayNum": "12",
         "venue": "Hiroshima, Japon — Riedenrose (Fukuyama Arts & Culture Hall) · Ouverture 13:30 · 14:00",
-        "title": "Keigo Mukawa — Récital de piano"
+        "title": "Keigo Mukawa — Récital de piano",
+        "soldOut": true
       },
       {
         "date": "13.12.2026",
@@ -822,7 +823,8 @@ window.CONCERTS_DATA = {
         "day": "Sat",
         "dayNum": "12",
         "venue": "Hiroshima, Japan — Riedenrose (Fukuyama Arts & Culture Hall) · Doors 13:30 · 14:00",
-        "title": "Keigo Mukawa — Piano recital"
+        "title": "Keigo Mukawa — Piano recital",
+        "soldOut": true
       },
       {
         "date": "13.12.2026",
