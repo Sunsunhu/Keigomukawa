@@ -9,7 +9,8 @@ window.CONCERTS_DATA = {
         "day": "mer.",
         "dayNum": "18",
         "venue": "Kanagawa, Japon — Kanagawa Prefectural Music Hall · 11:00",
-        "title": "Keigo Mukawa : In Portrait"
+        "title": "Keigo Mukawa : In Portrait",
+        "soldOut": true
       },
       {
         "date": "21.11.2026",
@@ -784,7 +785,8 @@ window.CONCERTS_DATA = {
         "day": "Wed",
         "dayNum": "18",
         "venue": "Kanagawa, Japan — Kanagawa Prefectural Music Hall · 11:00",
-        "title": "Keigo Mukawa: In Portrait"
+        "title": "Keigo Mukawa: In Portrait",
+        "soldOut": true
       },
       {
         "date": "21.11.2026",
