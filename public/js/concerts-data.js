@@ -5,14 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "18.11.2026",
-        "day": "mer.",
-        "dayNum": "18",
-        "venue": "Kanagawa, Japon — Kanagawa Prefectural Music Hall · 11:00",
-        "title": "Keigo Mukawa : In Portrait",
-        "soldOut": true
-      },
-      {
         "date": "21.11.2026",
         "day": "sam.",
         "dayNum": "21",
@@ -164,6 +156,14 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "18.11.2026",
+        "day": "mer.",
+        "dayNum": "18",
+        "venue": "Kanagawa, Japon — Kanagawa Prefectural Music Hall · 11:00",
+        "title": "Keigo Mukawa : In Portrait",
+        "soldOut": true
+      },
       {
         "date": "15.11.2026",
         "day": "dim.",
@@ -782,14 +782,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "18.11.2026",
-        "day": "Wed",
-        "dayNum": "18",
-        "venue": "Kanagawa, Japan — Kanagawa Prefectural Music Hall · 11:00",
-        "title": "Keigo Mukawa: In Portrait",
-        "soldOut": true
-      },
-      {
         "date": "21.11.2026",
         "day": "Sat",
         "dayNum": "21",
@@ -941,6 +933,14 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "18.11.2026",
+        "day": "Wed",
+        "dayNum": "18",
+        "venue": "Kanagawa, Japan — Kanagawa Prefectural Music Hall · 11:00",
+        "title": "Keigo Mukawa: In Portrait",
+        "soldOut": true
+      },
       {
         "date": "15.11.2026",
         "day": "Sun",
