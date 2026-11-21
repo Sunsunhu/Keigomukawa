@@ -5,13 +5,6 @@ window.CONCERTS_DATA = {
   "fr": {
     "upcoming": [
       {
-        "date": "21.11.2026",
-        "day": "sam.",
-        "dayNum": "21",
-        "venue": "Shizuoka, Japon — Oigawa Cultural Hall MUSICO",
-        "title": "Keigo Mukawa — Récital de piano 2026"
-      },
-      {
         "date": "23.11.2026",
         "day": "lun.",
         "dayNum": "23",
@@ -156,6 +149,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "21.11.2026",
+        "day": "sam.",
+        "dayNum": "21",
+        "venue": "Shizuoka, Japon — Oigawa Cultural Hall MUSICO",
+        "title": "Keigo Mukawa — Récital de piano 2026"
+      },
       {
         "date": "18.11.2026",
         "day": "mer.",
@@ -782,13 +782,6 @@ window.CONCERTS_DATA = {
   "en": {
     "upcoming": [
       {
-        "date": "21.11.2026",
-        "day": "Sat",
-        "dayNum": "21",
-        "venue": "Shizuoka, Japan — Oigawa Cultural Hall MUSICO",
-        "title": "Keigo Mukawa — Piano recital 2026"
-      },
-      {
         "date": "23.11.2026",
         "day": "Mon",
         "dayNum": "23",
@@ -933,6 +926,13 @@ window.CONCERTS_DATA = {
       }
     ],
     "past": [
+      {
+        "date": "21.11.2026",
+        "day": "Sat",
+        "dayNum": "21",
+        "venue": "Shizuoka, Japan — Oigawa Cultural Hall MUSICO",
+        "title": "Keigo Mukawa — Piano recital 2026"
+      },
       {
         "date": "18.11.2026",
         "day": "Wed",
